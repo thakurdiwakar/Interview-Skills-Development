@@ -1,10 +1,26 @@
 # Interview Prep
 
-Welcome to Interview Prep, a repository of interview questions and resources to help you prepare for your next job interview. Our goal is to provide you with a comprehensive set of questions across various industries and job functions, including coding interview questions, networking, database management, and more, as well as tips and strategies to help you ace your interviews.
+Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a comprehensive set of questions to help you succeed.
 
-## Getting Started
 
-To get started, simply browse our collection of questions organized by topic. Each question is presented in a clear and concise format to help you understand what the interviewer is looking for and how to craft a strong response.
+## Topics
+
+Our repository covers the following topics:
+
+- Coding Interview Questions
+- Networking Interview Questions
+- Database Management Interview Questions
+
+Each topic includes a set of questions to help you prepare for your interview. We've curated these questions to cover a wide range of scenarios and job functions, and we've included answers to help guide your preparation.
+
+### Coding Interview Questions
+
+- 1[What is the difference between a stack and a queue?](./coding.md#what-is-the-difference-between-a-stack-and-a-queue)
+
+2. How do you find the middle element of a singly linked list in one pass?
+3. Write a program to reverse a string using recursion.
+4. Implement a binary search algorithm.
+5. What is the time complexity of various sorting algorithms (e.g. bubble sort, quick sort, merge sort)?
 
 ## Contributing
 
