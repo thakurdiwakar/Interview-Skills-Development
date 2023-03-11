@@ -15,7 +15,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ### Coding Interview Questions
 
-- 1[What is the difference between a stack and a queue?](./coding.md/1.md #what-is-the-difference-between-a-stack-and-a-queue)
+- 1[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
 
 2. How do you find the middle element of a singly linked list in one pass?
 3. Write a program to reverse a string using recursion.
