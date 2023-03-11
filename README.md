@@ -25,6 +25,11 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1. [What is Kernel?](./Operating-Sysetm.md/1.md#What-is-Kernel)
 
+
+### Software Engineering Interview Questions
+
+1. [What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
+
 ## Contributing
 
 We believe that the best resources are the ones that are created collaboratively. That's why we invite you to contribute your own interview questions and insights to our repository. To do so, simply fork this repository, add your questions, and submit a pull request. We'll review your contribution and merge it if it meets our standards.
