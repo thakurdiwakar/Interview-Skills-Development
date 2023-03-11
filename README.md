@@ -19,7 +19,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ### Networking Interview Questions
 
-1. [What is TCP/IP Protocol](./networking.md/1.md#what-is-tcp/ip protocol)
+1. [What is TCP/IP Protocol?](./networking.md/1.md#what-is-tcp/ip-protocol)
 
 ## Contributing
 
