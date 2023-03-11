@@ -1,4 +1,4 @@
-##What are bitmap images?
+##  What are bitmap images?
 
 
 
