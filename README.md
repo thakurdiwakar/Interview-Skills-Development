@@ -21,6 +21,10 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1. [What is TCP/IP Protocol?](./networking.md/1.md#what-is-tcp/ip-protocol)
 
+### Operating system Interview Questions
+
+1. [What is Kernel?](./Operating-Sysetm.md/1.md#What-is-Kernel)
+
 ## Contributing
 
 We believe that the best resources are the ones that are created collaboratively. That's why we invite you to contribute your own interview questions and insights to our repository. To do so, simply fork this repository, add your questions, and submit a pull request. We'll review your contribution and merge it if it meets our standards.
