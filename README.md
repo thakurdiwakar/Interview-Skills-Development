@@ -48,7 +48,7 @@ We hope that this repository helps you feel more confident and prepared as you n
 
 # Owners of this Repository
 
-This repository is owned and maintained by [Name of Owner 1](https://github.com/owner1) and [Name of Owner 2](https://github.com/owner2).
+This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar) and [Sahil](https://github.com/Sahilz9).
 
 ## About the Owners
 
