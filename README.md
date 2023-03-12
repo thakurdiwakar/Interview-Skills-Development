@@ -44,3 +44,22 @@ We believe that the best resources are the ones that are created collaboratively
 We are always looking for ways to improve our repository and make it more useful for job seekers around the world. If you have any feedback or suggestions, please don't hesitate to open an issue or reach out to us directly.
 
 We hope that this repository helps you feel more confident and prepared as you navigate the job search process. Good luck with your interviews!
+
+
+# Owners of this Repository
+
+This repository is owned and maintained by [Name of Owner 1](https://github.com/owner1) and [Name of Owner 2](https://github.com/owner2).
+
+## About the Owners
+
+- [Diwakar Singh](https://github.com/thakurdiwakar). 
+- [Sahil Yadav](https://github.com/Sahilz9).
+
+## Contact Information
+
+If you have any questions, comments, or concerns about this repository, please contact the owners:
+
+- [Diwakar SIngh](mailto:diwkr14@gmail.com)
+- [Sahil Yadav](mailto:owner2@example.com)
+
+
