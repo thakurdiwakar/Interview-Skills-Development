@@ -17,6 +17,11 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1. [What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
 
+
+### DataBase Management System Interview Questions
+
+1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./dbms.md/ques1.md#What -is- DBMS- and -what- is- its- utility-Explain -RDBMS -with -examples.)
+
 ### Networking Interview Questions
 
 1. [What is TCP/IP Protocol?](./networking.md/1.md#what-is-tcp/ip-protocol)
