@@ -20,7 +20,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ### DataBase Management System Interview Questions
 
-1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./dbms.md/ques1.md#What -is- DBMS- and -what- is- its- utility-Explain -RDBMS -with -examples.)
+1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./dbms.md/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
 
 ### Networking Interview Questions
 
