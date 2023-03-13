@@ -31,7 +31,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 ### Operating system Interview Questions
 
 1. [What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
-2. [Banker's Algorithm](./operatingSystem.md/Ques1.md#Banker's-Algorithm)
+2. [Banker's Algorithm](./operatingSystem.md/Ques2.md#Banker's-Algorithm)
 
 
 ### Software Engineering Interview Questions
