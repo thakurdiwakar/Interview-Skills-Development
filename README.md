@@ -22,6 +22,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./dbms.md/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
 
+2.[Mention the issues with traditional file-based systems that make DBMS a better choice?.](./dbms.md/ques2.md#Mention-the-issues-with-traditional-file-based-systems-that-make-DBMS-a-better-choice)
+
 ### Networking Interview Questions
 
 1. [What is TCP/IP Protocol?](./networking.md/1.md#what-is-tcp/ip-protocol)
