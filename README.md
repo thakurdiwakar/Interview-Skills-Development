@@ -24,6 +24,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 2.[Mention the issues with traditional file-based systems that make DBMS a better choice?.](./dbms.md/ques2.md#Mention-the-issues-with-traditional-file-based-systems-that-make-DBMS-a-better-choice)
 
+3.[Explain different languages present in DBMS?.](./dbms.md/ques3.md#Explain-different-languages-present-in-DBMS.)
+
 ### Networking Interview Questions
 
 1. [What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
