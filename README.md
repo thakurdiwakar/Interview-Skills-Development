@@ -28,6 +28,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 4.[What is meant by ACID Properties in DBMS?](./dbms.md/ques4.md)
 
+5.[Are NULL values in a database the same as that of blank space or zero?](./dbms.md/ques5.md)
+
 ### Networking Interview Questions
 
 1. [What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
