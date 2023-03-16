@@ -1,4 +1,4 @@
-#### Are NULL values in a database the same as that of blank space or zero?
+### Are NULL values in a database the same as that of blank space or zero?
 
 No, NULL values in a database are not the same as blank spaces or zeros.
 
