@@ -30,6 +30,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 5.[Are NULL values in a database the same as that of blank space or zero?](./dbms.md/ques5.md)
 
+6.[What is Data Warehousing?](./dbms.md/ques6.md)
+
 ### Networking Interview Questions
 
 1. [What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
