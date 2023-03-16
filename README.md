@@ -26,6 +26,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[Explain different languages present in DBMS?.](./dbms.md/ques3.md#Explain-different-languages-present-in-DBMS.)
 
+4.[What is meant by ACID Properties in DBMS?](./dbms.md/ques4.md)
+
 ### Networking Interview Questions
 
 1. [What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
