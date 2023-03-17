@@ -38,6 +38,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 9.[What are the unary operations in Relational Algebra?](./dbms.md/ques9.md)
 
+10.[What is a degree of Relation?](./dbms.md/ques10.md)
+
 ### Networking Interview Questions
 
 1. [What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
