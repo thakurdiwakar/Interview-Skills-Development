@@ -32,6 +32,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 6.[What is Data Warehousing?](./dbms.md/ques6.md)
 
+7.[Explain the difference between the DELETE and TRUNCATE command in a DBMS.](./dbms.md/ques7.md)
+
 ### Networking Interview Questions
 
 1. [What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
