@@ -1,0 +1,3 @@
+# What is a degree of Relation?
+
+   ###  The degree of a relation refers to the number of attributes or columns in the relation. It is also known as the arity of the relation. The degree of a relation is an       important concept in database design and management, as it determines the number of columns that need to be defined for each table or relation in a database schema. The        degree of a relation is fixed once the relation is defined and cannot be changed without altering the relation's schema. However, it is possible to add or remove              attributes from a relation by creating a new relation with a different degree and using relational algebra operations to transform the data as needed.
