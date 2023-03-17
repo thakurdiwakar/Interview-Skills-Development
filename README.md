@@ -15,7 +15,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ### Coding Interview Questions
 
-1. [What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
+1.[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
 
 
 ### DataBase Management System Interview Questions
@@ -51,12 +51,12 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[What is a socket, kernel and Monolithic kernel?](./operatingSystem.md/Ques3.md#What-is-a-socket,-kernel-and-Monolithic-kernel-?)
 
-4.[Difference between process and program and thread? Different types of process.](/.operatingSystem.md/Ques4.md)
+4.[Difference between process and program and thread? Different types of process.](./operatingSystem.md/Ques4.md)
 
 
 ### Software Engineering Interview Questions
 
-1. [What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
+1.[What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
 
 ## Contributing
 
