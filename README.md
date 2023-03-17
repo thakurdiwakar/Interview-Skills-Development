@@ -53,6 +53,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 4.[Difference between process and program and thread? Different types of process.](./operatingSystem.md/Ques4.md)
 
+5.[Define Virtual memory, Thrashing, Threads.](./operatingSystem.md/Ques5.md)
+
 
 ### Software Engineering Interview Questions
 
