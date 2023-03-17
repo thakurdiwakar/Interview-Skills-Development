@@ -42,15 +42,16 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ### Networking Interview Questions
 
-1. [What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
+1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
 
 ### Operating system Interview Questions
 
-1. [What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
-
-2. [Banker's Algorithm](./operatingSystem.md/Ques2.md#Banker's-Algorithm)
+1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
+2.[Banker's Algorithm](./operatingSystem.md/Ques2.md#Banker's-Algorithm)
 
 3.[What is a socket, kernel and Monolithic kernel?](./operatingSystem.md/Ques3.md#What-is-a-socket,-kernel-and-Monolithic-kernel-?)
+
+4.[Difference between process and program and thread? Different types of process.](/.operatingSystem.md/Ques4.md)
 
 
 ### Software Engineering Interview Questions
