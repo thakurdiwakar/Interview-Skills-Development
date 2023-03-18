@@ -17,6 +17,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1.[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
 
+2.[What is LIFO?](./coding.md/2.md)
 
 ### DataBase Management System Interview Questions
 
