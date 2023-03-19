@@ -60,6 +60,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 6.[what is deadlock? different conditions to achieve a deadlock.](./operatingSystem.md/Ques6.md)
 
+7.[What is Fragmentation? Types of Fragmentation.](./operatingSystem.md/Ques7.md)
+
 
 ### Software Engineering Interview Questions
 
