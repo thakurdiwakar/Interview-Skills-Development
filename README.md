@@ -58,6 +58,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 5.[Define Virtual memory, Thrashing, Threads.](./operatingSystem.md/Ques5.md)
 
+6.[what is deadlock? different conditions to achieve a deadlock.](./operatingSystem.md/Ques6.md)
+
 
 ### Software Engineering Interview Questions
 
