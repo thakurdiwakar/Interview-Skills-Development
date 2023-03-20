@@ -64,6 +64,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 7.[What is Fragmentation? Types of Fragmentation.](./operatingSystem.md/Ques7.md)
 
+8.[Belady's Anomaly](./operatingSystem.md/Ques8.md)
+
 
 ### Software Engineering Interview Questions
 
