@@ -23,6 +23,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 4.[What is a sparse matrix? Explain an efficient way of storing a sparse matrix in memory?](./coding.md/4.md)
 
+5.[What is an integer array?](./coding.md/5.md)
+
 ### DataBase Management System Interview Questions
 
 1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./dbms.md/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
