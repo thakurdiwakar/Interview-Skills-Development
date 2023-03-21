@@ -68,6 +68,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 8.[Belady's Anomaly](./operatingSystem.md/Ques8.md)
 
+9.[Real Time Operating System, Types of RTOS?](./operatingSystem.md/Ques9.md)
+
 
 ### Software Engineering Interview Questions
 
