@@ -70,6 +70,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 9.[Real Time Operating System, Types of RTOS?](./operatingSystem.md/Ques9.md)
 
+10.[Dynamic Binding](./operatingSystem.md/Ques10.md)
+
 
 ### Software Engineering Interview Questions
 
