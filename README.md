@@ -25,6 +25,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 5.[What is an integer array?](./coding.md/5.md)
 
+6.[What is a Deque?](./coding.md/6.md)
+
 ### DataBase Management System Interview Questions
 
 1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./dbms.md/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
