@@ -74,6 +74,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 10.[Dynamic Binding](./operatingSystem.md/Ques10.md)
 
+11.[Explain the Process States and Lifecycle](./operatingSystem.md/Ques11.md)
+
 
 ### Software Engineering Interview Questions
 
