@@ -76,6 +76,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 11.[Explain the Process States and Lifecycle](./operatingSystem.md/Ques11.md)
 
+12.[FCFS Scheduling Algorithm](./operatingSystem.md/Ques12.md)
+
 
 ### Software Engineering Interview Questions
 
