@@ -1,1 +1,1 @@
-
+Primary memory is the computer's main memory and stores data temporarily. Secondary memory is external memory and saves data permanently. Data stored in primary memory can be directly accessed by the CPU, which cannot be accessed in secondary memory.
