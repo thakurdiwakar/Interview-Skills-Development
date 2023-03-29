@@ -80,6 +80,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 13.[What is paging and why do we it?](./operatingSystem.md/Ques13.md)
 
+14.[Difference between Primary and Secondary memory](./operatingSystem.md/Ques14.md)
+
 
 ### Software Engineering Interview Questions
 
