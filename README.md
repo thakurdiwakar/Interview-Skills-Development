@@ -88,6 +88,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 14.[Difference between Primary and Secondary memory](./operatingSystem.md/Ques14.md)
 
+15.[What is RAID structure in OS? What are the different levels of RAID configuration?](./operatingSystem.md/Ques15.md)
+
 
 ### Software Engineering Interview Questions
 
