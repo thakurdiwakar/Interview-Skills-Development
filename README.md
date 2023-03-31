@@ -31,7 +31,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 8.[WHat is a Graph?](./coding.md/8.md)
 
-9.[What is the difference between an interpreter and a compiler?](./coidng.md/9.md)
+9.[What is the difference between an interpreter and a compiler?](./coding.md/9.md)
 
 ### DataBase Management System Interview Questions
 
