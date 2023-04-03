@@ -35,6 +35,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 10.[What is Data abstraction?](./coding.md/10.md)
 
+11.[Difference between Linear and Non-Linear Data Structure](./coding.md/11.md)
+
 ### DataBase Management System Interview Questions
 
 1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./dbms.md/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
