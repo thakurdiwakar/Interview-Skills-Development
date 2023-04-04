@@ -13,7 +13,7 @@ Our repository covers the following topics:
 
 Each topic includes a set of questions to help you prepare for your interview. We've curated these questions to cover a wide range of scenarios and job functions, and we've included answers to help guide your preparation.
 
-### Coding Interview Questions
+### DSA Interview Questions
 
 1.[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
 
