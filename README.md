@@ -106,6 +106,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1.[What is a dynamically typed language?](./python.md/ques1.md)
 
+2.[What is Walrus Operator in Python?](./python.md/ques2.md)
+
 ### WebDevelopment Questions
 
 1.[What is Hydration](./web.md/ques1.md)
