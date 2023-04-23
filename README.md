@@ -101,6 +101,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1.[What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
 
+2.[What are the various categories of software?](./softwareEngineering.md/ques2.md)
+
 
 ### Python Interview Questions
 
