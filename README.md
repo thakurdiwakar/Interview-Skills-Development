@@ -118,6 +118,24 @@ Each topic includes a set of questions to help you prepare for your interview. W
 ##  Common questions asked in Interviews.
 
  1.Tell me about yourself
+ 
+ 2.What is your greatest strength?
+ 
+ 3.What is your greatest weakness?
+ 
+ 4.Why should we hire you?
+ 
+ 5.Why do you want to work here?
+ 
+ 6.Tell me about a time you showed leadership.
+ 
+ 7.Tell me about a time you were successful on a team.
+ 
+ 8.What would your co-workers say about you?
+ 
+ 9.Why do you want to leave your current role?
+ 
+ 10.Describe your most challenging project.
 
 ## Contributing
 
