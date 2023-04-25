@@ -136,6 +136,22 @@ Each topic includes a set of questions to help you prepare for your interview. W
  9.Why do you want to leave your current role?
  
  10.Describe your most challenging project.
+ 
+ 11.Tell me about something you’ve accomplished that you are proud of.
+ 
+ 12.Can you explain your employment gap?
+ 
+ 13.What are your salary expectations?
+ 
+ 14.What do you like to do outside of work?
+ 
+ 15.Tell me about a time you had to manage conflicting priorities.
+ 
+ 16.Where do you see yourself in 5 years?
+ 
+ 17.Describe your leadership style.
+ 
+ 18.Tell me about a time you failed or made a mistake.
 
 ## Contributing
 
