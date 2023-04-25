@@ -152,6 +152,22 @@ Each topic includes a set of questions to help you prepare for your interview. W
  17.Describe your leadership style.
  
  18.Tell me about a time you failed or made a mistake.
+ 
+ 19.Tell me about a time you worked with a difficult person.
+ 
+ 20.Tell me about a time you had to persuade someone.
+ 
+ 21.Tell me about a time you disagreed with someone.
+ 
+ 22.Tell me about a time you created a goal and achieved it.
+ 
+ 23.Tell me about a time you surpassed people’s expectations.
+ 
+ 24.Tell me about a time you had to handle pressure.
+ 
+ 25.Tell me about a time you had to learn something quickly.
+ 
+ 26.Do you have any questions for me?
 
 ## Contributing
 
