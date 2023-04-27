@@ -17,6 +17,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 ### C/Cpp Interview Questions
 
 1.[What is pragma in C](./c.md/1.md)
+
+2.[Go to statement in C](./c.md/2.md)
 ### DSA Interview Questions
 
 1.[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
