@@ -19,6 +19,9 @@ Each topic includes a set of questions to help you prepare for your interview. W
 1.[What is pragma in C](./c.md/1.md)
 
 2.[Go to statement in C](./c.md/2.md)
+
+3.[What is the difference between "++i" and "i++" in C programming?](./c.md/3.md)
+
 ### DSA Interview Questions
 
 1.[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
