@@ -20,7 +20,9 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 2.[Go to statement in C](./c.md/2.md)
 
-3.[What is the difference between "++i" and "i++" in C programming?](./c.md/3.md)
+3.[What is the difference between "++i" and "i++" in C programming?](./c.md/4.md)
+
+4.[What is the use of "const" keyword in C programming?](./c.md/3.md)
 
 ### DSA Interview Questions
 
