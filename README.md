@@ -24,6 +24,9 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 4.[What is the use of "const" keyword in C programming?](./c.md/4.md)
 
+4.[What is the difference between "strcmp" and "strncmp" functions in C programming?](./c.md/5.md)
+
+
 ### DSA Interview Questions
 
 1.[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
