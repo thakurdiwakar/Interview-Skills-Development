@@ -24,7 +24,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 4.[What is the use of "const" keyword in C programming?](./c.md/4.md)
 
-4.[What is the difference between "strcmp" and "strncmp" functions in C programming?](./c.md/5.md)
+5.[What is the difference between "strcmp" and "strncmp" functions in C programming?](./c.md/5.md)
 
 
 ### DSA Interview Questions
