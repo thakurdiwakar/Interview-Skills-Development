@@ -26,6 +26,9 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 5.[What is the difference between "strcmp" and "strncmp" functions in C programming?](./c.md/5.md)
 
+6.[Explain the difference between "malloc" and "calloc" functions in C programming.](./c.md/6.md)
+
+
 
 ### DSA Interview Questions
 
