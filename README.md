@@ -82,6 +82,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
 
+2.[What is the use of a router and how is it different from a gateway?](./networking.md/2.md)
+
 ### Operating system Interview Questions
 
 1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
