@@ -28,6 +28,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 6.[Explain the difference between "malloc" and "calloc" functions in C programming.](./c.md/6.md)
 
+7.[What is an STL in C++?](./c.md/7.md)
+
 
 
 ### DSA Interview Questions
