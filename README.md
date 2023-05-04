@@ -30,6 +30,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 7.[What is an STL in C++?](./c.md/7.md)
 
+8.[What is a virtual function in C++? Why is it important?](./c.md/8.md)
+
 
 
 ### DSA Interview Questions
