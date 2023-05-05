@@ -127,6 +127,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 2.[What are the various categories of software?](./softwareEngineering.md/ques2.md)
 
+3.[What do you mean by Alpha testing and beta testing?](./softwareEngineering.md/ques3.md)
+
 
 ### Python Interview Questions
 
