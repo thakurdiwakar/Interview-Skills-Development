@@ -141,6 +141,11 @@ Each topic includes a set of questions to help you prepare for your interview. W
 1.[What is Hydration](./web.md/ques1.md)
 
 
+### Java Interview Questions
+
+1.[what is jagged Array in java ? ](./java.md/1.md)
+
+
 ##  Common questions asked in Interviews.
 
  1.Tell me about yourself
