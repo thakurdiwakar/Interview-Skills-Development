@@ -145,6 +145,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1.[what is jagged Array in java ? ](./java.md/1.md)
 
+2.[Define wrapper class in java with example? ](./java.md/2.md)
+
 
 ##  Common questions asked in Interviews.
 
