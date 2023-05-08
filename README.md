@@ -147,6 +147,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 2.[Define wrapper class in java with example? ](./java.md/2.md)
 
+3.[Why Java is not a purely Object-Oriented Language? ](./java.md/3.md)
+
 
 ##  Common questions asked in Interviews.
 
