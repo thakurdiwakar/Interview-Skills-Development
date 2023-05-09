@@ -218,6 +218,13 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 We believe that the best resources are the ones that are created collaboratively. That's why we invite you to contribute your own interview questions and insights to our repository. To do so, simply fork this repository, add your questions, and submit a pull request. We'll review your contribution and merge it if it meets our standards.
 
+## Getting Started
+1.Fork the repository.
+2.Create a new branch for your contribution.
+3.Make your changes and test them locally.
+4.Push your changes to your fork.
+5.Open a pull request (PR) with a clear description of your changes and their purpose.
+
 ## Feedback
 
 We are always looking for ways to improve our repository and make it more useful for job seekers around the world. If you have any feedback or suggestions, please don't hesitate to open an issue or reach out to us directly.
