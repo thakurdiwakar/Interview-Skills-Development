@@ -3,6 +3,15 @@
 Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a comprehensive set of questions to help you succeed.
 
 
+### Getting Started
+
+1. Fork the repository.
+2. Create a new branch for your contribution.
+3. Make your changes and test them locally.
+4. Push your changes to your fork.
+5. Open a pull request (PR) with a clear description of your changes and their purpose.
+
+
 ## Topics
 
 Our repository covers the following topics:
@@ -218,13 +227,6 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 We believe that the best resources are the ones that are created collaboratively. That's why we invite you to contribute your own interview questions and insights to our repository. To do so, simply fork this repository, add your questions, and submit a pull request. We'll review your contribution and merge it if it meets our standards.
 
-### Getting Started
-
-1. Fork the repository.
-2. Create a new branch for your contribution.
-3. Make your changes and test them locally.
-4. Push your changes to your fork.
-5. Open a pull request (PR) with a clear description of your changes and their purpose.
 
 
 ## Feedback
