@@ -49,7 +49,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 
 
-### DSA Interview Questions
+### Coding Interview Questions
 
 1.[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
 
