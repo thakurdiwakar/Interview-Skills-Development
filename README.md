@@ -170,6 +170,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 4.[Exception Handling in Java?](./java.md/4.md)
 
+5.[Static keyword in Java](./java.md/5.md)
+
 
 ##  Common questions asked in Interviews.
 
