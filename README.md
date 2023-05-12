@@ -175,6 +175,12 @@ Each topic includes a set of questions to help you prepare for your interview. W
 6.[What is the difference between JDK and
 JRE?](./java.md/6.md)
 
+7.[Why is Java a platform independent
+language?](./java.md/7.md)
+
+8.[What is the difference between an
+abstract class and an interface?](./java.md/8.md)
+
 
 ##  Common questions asked in Interviews.
 
