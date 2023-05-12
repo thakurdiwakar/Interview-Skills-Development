@@ -172,6 +172,9 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 5.[Static keyword in Java](./java.md/5.md)
 
+6.[What is the difference between JDK and
+JRE?](./java.md/6.md)
+
 
 ##  Common questions asked in Interviews.
 
