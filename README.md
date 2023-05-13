@@ -49,6 +49,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 9.[what is 'this' pointer in C++?](./c.md/9.md)
 
+10.[What are references in C++?](./c.md/10.md)
+
 
 
 ### Coding Interview Questions
