@@ -183,6 +183,9 @@ language?](./java.md/7.md)
 8.[What is the difference between an
 abstract class and an interface?](./java.md/8.md)
 
+9.[What is the difference between final,
+finally, and finalize?](./java.md/9.md)
+
 
 ##  Common questions asked in Interviews.
 
