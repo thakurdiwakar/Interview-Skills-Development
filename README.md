@@ -274,6 +274,10 @@ If you have any questions, comments, or concerns about this repository, please c
 
 
 
-<a href="https://github.com/thakurdiwakar/Interview-Skills-Development/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=thakurdiwakar/Interview-Skills-Development" />
-</a>
+<td align="center">
+                <a href="https://https://github.com/thakurdiwakar/">
+                    <img src="https://avatars.githubusercontent.com/u/76618190?v=4" width="100px;" alt="Diwakar Singh"/>
+                    <br />
+                    <sub><b>Diwakar SIngh</b></sub>
+                </a>
+            </td>
