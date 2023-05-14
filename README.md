@@ -7,12 +7,15 @@ Welcome to Interview Questions, a repository of commonly asked interview questio
 
 Our repository covers the following topics:
 
+- C/C++ Interview Questions
 - Coding Interview Questions
-- Networking Interview Questions
 - Database Management Interview Questions
+- Java Interview Questions
+- JavaScript Interview Questions
+- Networking Interview Questions
 - Operating System
-- Software Engineering
 - Python
+- Software Engineering
 - Web Development
 
 You can suggest some more topics to be covered
