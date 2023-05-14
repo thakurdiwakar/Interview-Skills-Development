@@ -16,12 +16,15 @@ Welcome to Interview Questions, a repository of commonly asked interview questio
 
 Our repository covers the following topics:
 
+- C/C++ Interview Questions
 - Coding Interview Questions
-- Networking Interview Questions
 - Database Management Interview Questions
+- Java Interview Questions
+- JavaScript Interview Questions
+- Networking Interview Questions
 - Operating System
-- Software Engineering
 - Python
+- Software Engineering
 - Web Development
 
 You can suggest some more topics to be covered
@@ -165,6 +168,9 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1.[What is Hydration](./web.md/ques1.md)
 
+### JavaScript Interview Questions
+
+1.[Explain Hoisting in javascript?](./js.md/1.md)
 
 ### Java Interview Questions
 
