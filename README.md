@@ -243,7 +243,9 @@ finally, and finalize?](./java.md/9.md)
  
  25.Tell me about a time you had to learn something quickly.
  
- 26.Do you have any questions for me?
+ 26.Describe your ideal company, location and job?
+ 
+ 27.Do you have any questions for me?
 
 ## Contributing
 
