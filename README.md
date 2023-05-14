@@ -190,6 +190,8 @@ abstract class and an interface?](./java.md/8.md)
 9.[What is the difference between final,
 finally, and finalize?](./java.md/9.md)
 
+10.[Why String is immutable in Java?](./java.md/10.md)
+
 
 ##  Common questions asked in Interviews.
 
