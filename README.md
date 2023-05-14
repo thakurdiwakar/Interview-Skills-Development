@@ -151,7 +151,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ### JavaScript Interview Questions
 
-1. [Explain Hoisting in javascript?](./js.md/1.md)
+1.[Explain Hoisting in javascript?](./js.md/1.md)
 
 ### Java Interview Questions
 
