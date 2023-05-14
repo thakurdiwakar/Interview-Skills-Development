@@ -51,7 +51,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 10.[What are references in C++?](./c.md/10.md)
 
-
+11.[How is the assignment operator ( = ) different from the equal to operator ( == )?](./c.md/11.md)
 
 ### Coding Interview Questions
 
