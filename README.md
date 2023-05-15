@@ -170,6 +170,24 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1.[What is Hydration](./web.md/ques1.md)
 
+2.[State the difference between span tag and div tag in HTML5.](./web.md/ques2.md)
+
+3.[Describe the different kinds of HTTP requests supported by RESTful Web services](./web.md/ques3.md)
+
+4.[What is the best way to integrate different stylesheets into a website?](./web.md/ques4.md)
+
+5.[Explain the term “Scope” in JavaScript and write its different type.](./web.md/ques5.md)
+
+6.[What are pseudo-classes?](./web.md/ques6.md)
+
+7.[What are some of the types of CSS that are used?](./web.md/ques7.md)
+
+8.[What are the five elements that support media content in HTML5?](./web.md/ques8.md)
+
+9.[What is the purpose of closures in JavaScript?](./web.md/ques9.md)
+
+10.[Why are media queries used in CSS?](./web.md/ques10.md)
+
 ### JavaScript Interview Questions
 
 1.[Explain Hoisting in javascript?](./js.md/1.md)
