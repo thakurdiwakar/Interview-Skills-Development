@@ -16,7 +16,7 @@ Welcome to Interview Questions, a repository of commonly asked interview questio
 
 Our repository covers the following topics:
 
-- [C & C++](#c--c++)
+- [C & C++](#cc++)
 - Coding Interview Questions
 - Database Management Interview Questions
 - Java Interview Questions
