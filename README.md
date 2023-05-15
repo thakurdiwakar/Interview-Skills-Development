@@ -16,14 +16,14 @@ Welcome to Interview Questions, a repository of commonly asked interview questio
 
 Our repository covers the following topics:
 
-- C/C++ Interview Questions
+- [C & C++](#c--c++)
 - Coding Interview Questions
 - Database Management Interview Questions
 - Java Interview Questions
 - JavaScript Interview Questions
 - Networking Interview Questions
 - Operating System
-- Python
+- [Python](#python)
 - Software Engineering
 - Web Development
 
@@ -32,7 +32,7 @@ You can suggest some more topics to be covered
 Each topic includes a set of questions to help you prepare for your interview. We've curated these questions to cover a wide range of scenarios and job functions, and we've included answers to help guide your preparation.
 
 
-### C/Cpp Interview Questions
+## C & C++
 
 1.[What is pragma in C](./c.md/1.md)
 
@@ -158,7 +158,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 3.[What do you mean by Alpha testing and beta testing?](./softwareEngineering.md/ques3.md)
 
 
-### Python Interview Questions
+## Python 
 
 1.[What is a dynamically typed language?](./python.md/ques1.md)
 
