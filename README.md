@@ -19,6 +19,7 @@ Our repository covers the following topics:
 - [C  CPP](#c-cpp)
 - [Coding Interview Questions](#coding-interview-questions)
 - [Database Management Interview Questions](#database-management-interview-questions)
+- [Git & GitHub](#git--github)
 - [Java Interview Questions](#java-interview-questions)
 - [JavaScript Interview Questions](#javascript-interview-questions)
 - [Networking Interview Questions](#networking-interview-questions)
@@ -27,6 +28,7 @@ Our repository covers the following topics:
 - [Software Engineering](#software-engineering)
 - [Web Development](#web-development)
 - [Common Job Interview Questions](#common-job-interview-questions)
+
 
 You can suggest some more topics to be covered
 
@@ -108,6 +110,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 9.[What are the unary operations in Relational Algebra?](./dbms.md/ques9.md)
 
 10.[What is a degree of Relation?](./dbms.md/ques10.md)
+
+## Git & GitHub
 
 ### Networking Interview Questions
 
