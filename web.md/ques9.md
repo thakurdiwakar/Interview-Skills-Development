@@ -1,0 +1,3 @@
+# What is the purpose of closures in JavaScript?
+
+In JavaScript, a closure is known as a JavaScript closure or JS closure. Closures allow you to access the scope (variables and parameters) of an outer function from an inner function. Every time a JavaScript function is created, a closure is created. JavaScript closures allow you to control which variables are and are not in scope in a given function, as well as which variables are shared among siblings within the same containing scope.
