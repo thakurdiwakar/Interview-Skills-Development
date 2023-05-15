@@ -16,16 +16,16 @@ Welcome to Interview Questions, a repository of commonly asked interview questio
 
 Our repository covers the following topics:
 
-- [C & C++](#cc++)
-- Coding Interview Questions
-- Database Management Interview Questions
-- Java Interview Questions
-- JavaScript Interview Questions
-- Networking Interview Questions
-- Operating System
+- [C & C++](#cc)
+- [Coding Interview Questions](#coding-interview-questions)
+- [Database Management Interview Questions](#database-management-interview-questions)
+- [Java Interview Questions](#java-interview-questions)
+- [JavaScript Interview Questions](#javascript-interview-questions)
+- [Networking Interview Questions](#networking-interview-questions)
+- [Operating System](#operating-system)
 - [Python](#python)
-- Software Engineering
-- Web Development
+- [Software Engineering](#software-engineering)
+- [Web Development](#web-development)
 
 You can suggest some more topics to be covered
 
@@ -86,7 +86,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 14.[What are the different OOPS principles?](./coding.md/14.md)
 
-### DataBase Management System Interview Questions
+### DataBase Management Interview Questions
 
 1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./dbms.md/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
 
@@ -114,7 +114,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 2.[What is the use of a router and how is it different from a gateway?](./networking.md/2.md)
 
-### Operating system Interview Questions
+### Operating system 
 
 1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
 
