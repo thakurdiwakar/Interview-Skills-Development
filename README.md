@@ -149,7 +149,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 16.[Write top 10 examples of OS?](./operatingSystem.md/Ques16.md)
 
 
-### Software Engineering Interview Questions
+### Software Engineering 
 
 1.[What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
 
@@ -166,7 +166,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[Explain the concept of recursion?](./python.md/ques3.md)
 
-### WebDevelopment Questions
+### Web Development 
 
 1.[What is Hydration](./web.md/ques1.md)
 
