@@ -26,6 +26,7 @@ Our repository covers the following topics:
 - [Python](#python)
 - [Software Engineering](#software-engineering)
 - [Web Development](#web-development)
+- [Common Job Interview Questions](#common-job-interview-questions)
 
 You can suggest some more topics to be covered
 
@@ -201,7 +202,7 @@ finally, and finalize?](./java.md/9.md)
 10.[Why String is immutable in Java?](./java.md/10.md)
 
 
-##  Common questions asked in Interviews.
+##  Common Job Interview Questions
 
  1.Tell me about yourself
  
