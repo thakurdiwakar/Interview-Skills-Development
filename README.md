@@ -119,6 +119,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[What is a git repository?](./git.md/3.md)
 
+4.[What does git clone do?](./git.md/4.md)
+
 ### Networking Interview Questions
 
 1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
