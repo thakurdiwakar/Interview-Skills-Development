@@ -59,6 +59,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 11.[How is the assignment operator ( = ) different from the equal to operator ( == )?](./c.md/11.md)
 
+12.[Define Priority Queue](./c.md/12.md)
+
 ### Coding Interview Questions
 
 1.[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
