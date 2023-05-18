@@ -219,19 +219,26 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 5.[Static keyword in Java](./java.md/5.md)
 
-6.[What is the difference between JDK and
-JRE?](./java.md/6.md)
+6.[What is the difference between JDK and JRE?](./java.md/6.md)
 
-7.[Why is Java a platform independent
-language?](./java.md/7.md)
+7.[Why is Java a platform independent language?](./java.md/7.md)
 
-8.[What is the difference between an
-abstract class and an interface?](./java.md/8.md)
+8.[What is the difference between an abstract class and an interface?](./java.md/8.md)
 
-9.[What is the difference between final,
-finally, and finalize?](./java.md/9.md)
+9.[What is the difference between final, finally, and finalize?](./java.md/9.md)
 
 10.[Why String is immutable in Java?](./java.md/10.md)
+
+11.[What will be the initial value of an object reference which is defined as an instance variable?](./java.md/11.md)
+
+12.[Does constructor return any value?](./java.md/12.md)
+
+13.[Is constructor inherited?](./java.md/13.md)
+
+14.[Can you make a constructor final?](./java.md/14.md)
+
+15.[Can we overload the constructors?](./java.md/15.md)
+
 
 
 ##  Common Job Interview Questions
