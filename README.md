@@ -208,6 +208,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 1.[Explain Hoisting in javascript?](./js.md/1.md)
 
+2.[What are the different data types present in javascript?](./js.md/2.md)
+
 ### Java Interview Questions
 
 1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/jagged%20array.md)
