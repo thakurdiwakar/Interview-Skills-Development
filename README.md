@@ -213,9 +213,9 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ### Java Interview Questions
 
-1.[what is jagged Array in java ? ](./java.md/jagged array.md)
+1.[what is jagged Array in java ? ](./java.md/jagged-array.md)
 
-2.[Define wrapper class in java with example? ](./java.md/Wrapper Class.md)
+2.[Define wrapper class in java with example? ](./java.md/Wrapper-Class.md)
 
 3.[Why Java is not a purely Object-Oriented Language? ](./java.md/Why Java is not a purely Object-Oriented Language.md)
 
