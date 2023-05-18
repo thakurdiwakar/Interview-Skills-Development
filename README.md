@@ -123,6 +123,10 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 4.[What does git clone do?](./git.md/4.md)
 
+5.[What does git status command do?](./git.md/5.md)
+
+6.[Define 'Git Index'?](./git.md/6.md)
+
 ### Networking Interview Questions
 
 1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
@@ -209,15 +213,15 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ### Java Interview Questions
 
-1.[what is jagged Array in java ? ](./java.md/1.md)
+1.[what is jagged Array in java ? ](./java.md/jagged-array.md)
 
-2.[Define wrapper class in java with example? ](./java.md/2.md)
+2.[Define wrapper class in java with example? ](./java.md/Wrapper Class.md)
 
-3.[Why Java is not a purely Object-Oriented Language? ](./java.md/3.md)
+3.[Why Java is not a purely Object-Oriented Language? ](./java.md/Why Java is not a purely Object-Oriented Language.md)
 
-4.[Exception Handling in Java?](./java.md/4.md)
+4.[Exception Handling in Java?](./java.md/Exception Handling.md)
 
-5.[Static keyword in Java](./java.md/5.md)
+5.[Static keyword in Java](./java.md/Static Keyword.md)
 
 6.[What is the difference between JDK and JRE?](./java.md/6.md)
 
@@ -227,7 +231,15 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 9.[What is the difference between final, finally, and finalize?](./java.md/9.md)
 
-10.[Why String is immutable in Java?](./java.md/10.md)
+6.[What is the difference between JDK and JRE?](./java.md/Diffrence Between JDK and JVM.md)
+
+7.[Why is Java a platform independent language?](./java.md/Why Java is platform independent language.md)
+
+8.[What is the difference between an abstract class and an interface?](./java.md/Diffrence between abstract class and an interface.md)
+
+9.[What is the difference between final, finally, and finalize?](./java.md/final, finally and finalize keywords.md)
+
+10.[Why String is immutable in Java?](./java.md/why String is immutable.md)
 
 11.[What will be the initial value of an object reference which is defined as an instance variable?](./java.md/11.md)
 
