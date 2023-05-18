@@ -125,6 +125,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 5.[What does git status command do?](./git.md/5.md)
 
+6.[Define 'Git Index'?](./git.md/6.md)
+
 ### Networking Interview Questions
 
 1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
