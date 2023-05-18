@@ -1,7 +1,8 @@
 # Interview Prep
 
-Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a comprehensive set of questions to help you succeed.
-
+Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job
+functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a
+comprehensive set of questions to help you succeed.
 
 ### Getting Started
 
@@ -10,7 +11,6 @@ Welcome to Interview Questions, a repository of commonly asked interview questio
 3. Make your changes and test them locally.
 4. Push your changes to your fork.
 5. Open a pull request (PR) with a clear description of your changes and their purpose.
-
 
 ## Topics
 
@@ -29,11 +29,10 @@ Our repository covers the following topics:
 - [Web Development](#web-development)
 - [Common Job Interview Questions](#common-job-interview-questions)
 
-
 You can suggest some more topics to be covered
 
-Each topic includes a set of questions to help you prepare for your interview. We've curated these questions to cover a wide range of scenarios and job functions, and we've included answers to help guide your preparation.
-
+Each topic includes a set of questions to help you prepare for your interview. We've curated these questions to cover a
+wide range of scenarios and job functions, and we've included answers to help guide your preparation.
 
 ## C CPP
 
@@ -133,7 +132,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 2.[What is the use of a router and how is it different from a gateway?](./networking.md/2.md)
 
-### Operating system 
+### Operating system
 
 1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
 
@@ -167,8 +166,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 16.[Write top 10 examples of OS?](./operatingSystem.md/Ques16.md)
 
-
-### Software Engineering 
+### Software Engineering
 
 1.[What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
 
@@ -176,8 +174,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[What do you mean by Alpha testing and beta testing?](./softwareEngineering.md/ques3.md)
 
-
-## Python 
+## Python
 
 1.[What is a dynamically typed language?](./python.md/ques1.md)
 
@@ -185,7 +182,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[Explain the concept of recursion?](./python.md/ques3.md)
 
-### Web Development 
+### Web Development
 
 1.[What is Hydration](./web.md/ques1.md)
 
@@ -213,107 +210,110 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ### Java Interview Questions
 
-1.[what is jagged Array in java ? ](./java.md/jagged-array.md)
+1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/jagged%20array.md)
 
-2.[Define wrapper class in java with example? ](./java.md/Wrapper Class.md)
+2.[Define wrapper class in java with example? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Wrapper%20Class.md)
 
-3.[Why Java is not a purely Object-Oriented Language? ](./java.md/Why Java is not a purely Object-Oriented Language.md)
+3.[Why Java is not a purely Object-Oriented Language? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Why%20Java%20is%20not%20a%20purely%20Object-Oriented%20Language.md)
 
-4.[Exception Handling in Java?](./java.md/Exception Handling.md)
+4.[Exception Handling in Java?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Exception%20Handling.md)
 
-5.[Static keyword in Java](./java.md/Static Keyword.md)
+5.[Static keyword in Java](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Static%20Keyword.md)
 
 6.[What is the difference between JDK and
-JRE?](./java.md/Diffrence Between JDK and JVM.md)
+JRE?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Diffrence%20Between%20JDK%20and%20JVM.md)
 
 7.[Why is Java a platform independent
-language?](./java.md/Why Java is platform independent language.md)
+language?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Why%20Java%20is%20platform%20independent%20language.md)
 
 8.[What is the difference between an
-abstract class and an interface?](./java.md/Diffrence between abstract class and an interface.md)
+abstract class and an interface?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Diffrence%20between%20abstract%20class%20and%20an%20interface.md)
 
 9.[What is the difference between final,
-finally, and finalize?](./java.md/final, finally and finalize keywords.md)
+finally, and finalize?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/final%2C%20finally%20and%20finalize%20keywords.md)
 
-10.[Why String is immutable in Java?](./java.md/why String is immutable.md)
+10.[Why String is immutable in Java?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/why%20String%20is%20immutable.md)
 
+11.[Questions On JDBC]()
 
-##  Common Job Interview Questions
+## Common Job Interview Questions
 
- 1.Tell me about yourself
- 
- 2.What is your greatest strength?
- 
- 3.What is your greatest weakness?
- 
- 4.Why should we hire you?
- 
- 5.Why do you want to work here?
- 
- 6.Tell me about a time you showed leadership.
- 
- 7.Tell me about a time you were successful on a team.
- 
- 8.What would your co-workers say about you?
- 
- 9.Why do you want to leave your current role?
- 
- 10.Describe your most challenging project.
- 
- 11.Tell me about something you’ve accomplished that you are proud of.
- 
- 12.Can you explain your employment gap?
- 
- 13.What are your salary expectations?
- 
- 14.What do you like to do outside of work?
- 
- 15.Tell me about a time you had to manage conflicting priorities.
- 
- 16.Where do you see yourself in 5 years?
- 
- 17.Describe your leadership style.
- 
- 18.Tell me about a time you failed or made a mistake.
- 
- 19.Tell me about a time you worked with a difficult person.
- 
- 20.Tell me about a time you had to persuade someone.
- 
- 21.Tell me about a time you disagreed with someone.
- 
- 22.Tell me about a time you created a goal and achieved it.
- 
- 23.Tell me about a time you surpassed people’s expectations.
- 
- 24.Tell me about a time you had to handle pressure.
- 
- 25.Tell me about a time you had to learn something quickly.
- 
- 26.Describe your ideal company, location and job?
- 
- 27.Do you have any questions for me?
+1.Tell me about yourself
+
+2.What is your greatest strength?
+
+3.What is your greatest weakness?
+
+4.Why should we hire you?
+
+5.Why do you want to work here?
+
+6.Tell me about a time you showed leadership.
+
+7.Tell me about a time you were successful on a team.
+
+8.What would your co-workers say about you?
+
+9.Why do you want to leave your current role?
+
+10.Describe your most challenging project.
+
+11.Tell me about something you’ve accomplished that you are proud of.
+
+12.Can you explain your employment gap?
+
+13.What are your salary expectations?
+
+14.What do you like to do outside of work?
+
+15.Tell me about a time you had to manage conflicting priorities.
+
+16.Where do you see yourself in 5 years?
+
+17.Describe your leadership style.
+
+18.Tell me about a time you failed or made a mistake.
+
+19.Tell me about a time you worked with a difficult person.
+
+20.Tell me about a time you had to persuade someone.
+
+21.Tell me about a time you disagreed with someone.
+
+22.Tell me about a time you created a goal and achieved it.
+
+23.Tell me about a time you surpassed people’s expectations.
+
+24.Tell me about a time you had to handle pressure.
+
+25.Tell me about a time you had to learn something quickly.
+
+26.Describe your ideal company, location and job?
+
+27.Do you have any questions for me?
 
 ## Contributing
 
-We believe that the best resources are the ones that are created collaboratively. That's why we invite you to contribute your own interview questions and insights to our repository. To do so, simply fork this repository, add your questions, and submit a pull request. We'll review your contribution and merge it if it meets our standards.
-
-
+We believe that the best resources are the ones that are created collaboratively. That's why we invite you to contribute
+your own interview questions and insights to our repository. To do so, simply fork this repository, add your questions,
+and submit a pull request. We'll review your contribution and merge it if it meets our standards.
 
 ## Feedback
 
-We are always looking for ways to improve our repository and make it more useful for job seekers around the world. If you have any feedback or suggestions, please don't hesitate to open an issue or reach out to us directly.
+We are always looking for ways to improve our repository and make it more useful for job seekers around the world. If
+you have any feedback or suggestions, please don't hesitate to open an issue or reach out to us directly.
 
-We hope that this repository helps you feel more confident and prepared as you navigate the job search process. Good luck with your interviews!
-
+We hope that this repository helps you feel more confident and prepared as you navigate the job search process. Good
+luck with your interviews!
 
 # Owners of this Repository
 
-This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar) and [Sahil](https://github.com/Sahilz9).
+This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar)
+and [Sahil](https://github.com/Sahilz9).
 
 ## About the Owners
 
-- [Diwakar Singh](https://github.com/thakurdiwakar). 
+- [Diwakar Singh](https://github.com/thakurdiwakar).
 - [Sahil Yadav](https://github.com/Sahilz9).
 
 ## Contact Information
