@@ -126,6 +126,14 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 6.[Define 'Git Index'?](./git.md/6.md)
 
+7.[What is Git Bash?](./git.md/7.md)
+
+8.[What is forking in Git?](./git.md/8.md)
+
+9.[What is origin in Git?](./git.md/9.md)
+
+10.[What is the difference between ‘git remote’ and ‘git clone’?](./git.md/10.md)
+
 ### Networking Interview Questions
 
 1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
