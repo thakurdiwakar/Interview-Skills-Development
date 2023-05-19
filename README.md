@@ -116,7 +116,7 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Git%20vs%20Github.md)
 
-2.[What do you understand by the term ‘Version Control System’?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Version%20Control%20System)
+2.[What do you understand by the term ‘Version Control System’?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Version%20Control%20System.md)
 
 3.[What is a git repository?](./git.md/3.md)
 
