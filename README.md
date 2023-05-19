@@ -114,7 +114,7 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 ## Git & GitHub
 
-1.[What’s the difference between Git and GitHub?](./git.md/1.md)
+1.[What’s the difference between Git and GitHub?](./git.md/Git%20vs%20Github)
 
 2.[What do you understand by the term ‘Version Control System’?](./git.md/2.md)
 
