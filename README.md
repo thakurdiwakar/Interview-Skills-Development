@@ -134,6 +134,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 10.[What is the difference between ‘git remote’ and ‘git clone’?](./git.md/10.md)
 
+11.[What does the command git config do?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/gitconfig.md)
+
 ### Networking Interview Questions
 
 1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
