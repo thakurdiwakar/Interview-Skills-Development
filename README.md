@@ -114,9 +114,9 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 ## Git & GitHub
 
-1.[What’s the difference between Git and GitHub?](./git.md/1.md)
+1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Git%20vs%20Github.md)
 
-2.[What do you understand by the term ‘Version Control System’?](./git.md/2.md)
+2.[What do you understand by the term ‘Version Control System’?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Version%20Control%20System.md)
 
 3.[What is a git repository?](./git.md/3.md)
 
@@ -125,6 +125,16 @@ wide range of scenarios and job functions, and we've included answers to help gu
 5.[What does git status command do?](./git.md/5.md)
 
 6.[Define 'Git Index'?](./git.md/6.md)
+
+7.[What is Git Bash?](./git.md/7.md)
+
+8.[What is forking in Git?](./git.md/8.md)
+
+9.[What is origin in Git?](./git.md/9.md)
+
+10.[What is the difference between ‘git remote’ and ‘git clone’?](./git.md/10.md)
+
+11.[What does the command git config do?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/gitconfig.md)
 
 ### Networking Interview Questions
 
@@ -208,6 +218,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 1.[Explain Hoisting in javascript?](./js.md/1.md)
 
+2.[What are the different data types present in javascript?](./js.md/2.md)
+
 ### Java Interview Questions
 
 1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/jagged%20array.md)
@@ -239,6 +251,7 @@ finally, and finalize?](https://github.com/thakurdiwakar/Interview-Skills-Develo
 12.[Questions On OPP's]()
 
 13.[Collection Framework](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Collection%20Framework.md)
+
 
 ## Common Job Interview Questions
 
