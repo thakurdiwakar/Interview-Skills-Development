@@ -234,7 +234,11 @@ finally, and finalize?](https://github.com/thakurdiwakar/Interview-Skills-Develo
 
 10.[Why String is immutable in Java?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/why%20String%20is%20immutable.md)
 
-11.[Questions On JDBC]()
+11.[Questions On JDBC](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/JDBC.md)
+
+12.[Questions On OPP's]()
+
+13.[Collection Framework](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Collection%20Framework.md)
 
 ## Common Job Interview Questions
 
