@@ -47,6 +47,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 8.[What is a virtual function in C++? Why is it important?](./c.md/8.md)
 
+9.[Why File Handling in C?](./c.md/9.md)
+
 
 
 ### DSA Interview Questions
