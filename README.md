@@ -324,22 +324,6 @@ you have any feedback or suggestions, please don't hesitate to open an issue or 
 We hope that this repository helps you feel more confident and prepared as you navigate the job search process. Good
 luck with your interviews!
 
-# Owners of this Repository
-
-This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar)
-and [Sahil](https://github.com/Sahilz9).
-
-## About the Owners
-
-- [Diwakar Singh](https://github.com/thakurdiwakar).
-- [Sahil Yadav](https://github.com/Sahilz9).
-
-## Contact Information
-
-If you have any questions, comments, or concerns about this repository, please contact the owners:
-
-- [Diwakar SIngh](mailto:diwkr14@gmail.com)
-- [Sahil Yadav](mailto:owner2@example.com)
 
 ## Project Contributors⭐
 
@@ -353,4 +337,12 @@ If you have any questions, comments, or concerns about this repository, please c
 	</tr>
 </table>
 
+# Owners of this Repository
 
+This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar)
+and [Sahil](https://github.com/Sahilz9).
+
+## About the Owners
+
+- [Diwakar Singh](https://github.com/thakurdiwakar).
+- [Sahil Yadav](https://github.com/Sahilz9).
