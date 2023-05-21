@@ -4,13 +4,14 @@ Welcome to Interview Questions, a repository of commonly asked interview questio
 functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a
 comprehensive set of questions to help you succeed.
 
-### Getting Started
+### How to contribute?
+1.First of all star ⭐ the Repo and follow my github [Diwakar Singh](https://github.com/thakurdiwakar).
 
-1. Fork the repository.
-2. Create a new branch for your contribution.
-3. Make your changes and test them locally.
-4. Push your changes to your fork.
-5. Open a pull request (PR) with a clear description of your changes and their purpose.
+2. Fork the repository.
+3. Create a new branch for your contribution.
+4. Make your changes and test them locally.
+5. Push your changes to your fork.
+6. Open a pull request (PR) with a clear description of your changes and their purpose.
 
 ## Topics
 
