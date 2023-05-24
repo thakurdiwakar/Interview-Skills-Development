@@ -225,7 +225,7 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 3.[What is DOM?](./js.md/dom.md)
 
-4.[Difference between var and let keyword in javascript.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/https:/github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/var%20vs%20let.md)
+4.[Difference between var and let keyword in javascript.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/var%20vs%20let.md)
 
 ### Java Interview Questions
 
