@@ -227,7 +227,7 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 4.[Difference between var and let keyword in javascript.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/var%20vs%20let.md)
 
-5.[Difference between Event Handler and Event listener?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/var%20vs%20let.md)
+5.[Difference between Event Handler and Event listener?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/Difference%20between%20Event%20Handler%20and%20Event%20listener.md)
 
 ### Java Interview Questions
 
