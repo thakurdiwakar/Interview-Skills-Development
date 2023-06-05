@@ -217,6 +217,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 10.[Why are media queries used in CSS?](./web.md/ques10.md)
 
+11.[What are the differences between JSON and XML?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/web.md/differences%20between%20JSON%20and%20XML%3F.md)
+
 ### JavaScript Interview Questions
 
 1.[Explain Hoisting in javascript?](./js.md/1.md)
