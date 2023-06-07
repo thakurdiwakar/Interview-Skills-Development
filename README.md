@@ -265,6 +265,8 @@ finally, and finalize?](https://github.com/thakurdiwakar/Interview-Skills-Develo
 
 13.[Collection Framework](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Collection%20Framework.md)
 
+14.[Explain thread synchronization and how u can achieve the Thread Synchronization in Java.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/thread_synchronization.md)
+
 
 ## Common Job Interview Questions
 
