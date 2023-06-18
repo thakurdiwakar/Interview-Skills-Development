@@ -267,6 +267,9 @@ finally, and finalize?](https://github.com/thakurdiwakar/Interview-Skills-Develo
 
 14.[Explain thread synchronization and how u can achieve the Thread Synchronization in Java.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/thread_synchronization.md)
 
+15.[Tell the uses of "this" keyword in JAVA](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/826ee925bc74e387e4bc18b3572857e0a9d62149/java.md/Tell%20the%20uses%20of%20%22this%22%20keyword%20in%20JAVA.md)
+
+
 
 ## Common Job Interview Questions
 
