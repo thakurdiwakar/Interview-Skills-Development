@@ -356,7 +356,3 @@ luck with your interviews!
 This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar)
 and [Sahil](https://github.com/Sahilz9).
 
-## About the Owners
-
-- [Diwakar Singh](https://github.com/thakurdiwakar).
-- [Sahil Yadav](https://github.com/Sahilz9).
