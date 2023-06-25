@@ -197,6 +197,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 4.[Describe the strings used in python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/python.md/strings%20in%20python.md)
 
+5.[What is Walrus Operator in Python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/python.md/walrus%20operator%20in%20python.md)
+
 ### Web Development
 
 1.[What is Hydration](./web.md/ques1.md)
