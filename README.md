@@ -239,6 +239,18 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 15.[Can we overload the constructors?](./java.md/15.md)
 
+16.[What are the various access specifiers in Java?](./java.md/16.md)
+
+17.[What are the advantages of Packages in Java?](./java.md/17.md)
+
+18.[What is an object?](./java.md/18.md)
+
+19.[What will be the initial value of an object reference which is defined as an instance variable?](./java.md/19.md)
+
+20.[Why is the main method static?](./java.md/20.md)
+
+
+
 
 
 ##  Common Job Interview Questions
