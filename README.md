@@ -249,6 +249,96 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 5.[Static keyword in Java](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Static%20Keyword.md)
 
+6.[What is the difference between JDK and JRE?](./java.md/6.md)
+
+7.[Why is Java a platform independent language?](./java.md/7.md)
+
+8.[What is the difference between an abstract class and an interface?](./java.md/8.md)
+
+9.[What is the difference between final, finally, and finalize?](./java.md/9.md)
+
+10.[Why String is immutable in Java?](./java.md/10.md)
+
+11.[What will be the initial value of an object reference which is defined as an instance variable?](./java.md/11.md)
+
+12.[Does constructor return any value?](./java.md/12.md)
+
+13.[Is constructor inherited?](./java.md/13.md)
+
+14.[Can you make a constructor final?](./java.md/14.md)
+
+15.[Can we overload the constructors?](./java.md/15.md)
+
+16.[What are the various access specifiers in Java?](./java.md/16.md)
+
+17.[What are the advantages of Packages in Java?](./java.md/17.md)
+
+18.[What is an object?](./java.md/18.md)
+
+19.[What will be the initial value of an object reference which is defined as an instance variable?](./java.md/19.md)
+
+20.[Why is the main method static?](./java.md/20.md)
+
+
+
+
+
+##  Common Job Interview Questions
+
+ 1.Tell me about yourself
+ 
+ 2.What is your greatest strength?
+ 
+ 3.What is your greatest weakness?
+ 
+ 4.Why should we hire you?
+ 
+ 5.Why do you want to work here?
+ 
+ 6.Tell me about a time you showed leadership.
+ 
+ 7.Tell me about a time you were successful on a team.
+ 
+ 8.What would your co-workers say about you?
+ 
+ 9.Why do you want to leave your current role?
+ 
+ 10.Describe your most challenging project.
+ 
+ 11.Tell me about something you’ve accomplished that you are proud of.
+ 
+ 12.Can you explain your employment gap?
+ 
+ 13.What are your salary expectations?
+ 
+ 14.What do you like to do outside of work?
+ 
+ 15.Tell me about a time you had to manage conflicting priorities.
+ 
+ 16.Where do you see yourself in 5 years?
+ 
+ 17.Describe your leadership style.
+ 
+ 18.Tell me about a time you failed or made a mistake.
+ 
+ 19.Tell me about a time you worked with a difficult person.
+ 
+ 20.Tell me about a time you had to persuade someone.
+ 
+ 21.Tell me about a time you disagreed with someone.
+ 
+ 22.Tell me about a time you created a goal and achieved it.
+ 
+ 23.Tell me about a time you surpassed people’s expectations.
+ 
+ 24.Tell me about a time you had to handle pressure.
+ 
+ 25.Tell me about a time you had to learn something quickly.
+ 
+ 26.Describe your ideal company, location and job?
+ 
+ 27.Do you have any questions for me?
+=======
 6.[What is the difference between JDK and
 JRE?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Diffrence%20Between%20JDK%20and%20JVM.md)
 
