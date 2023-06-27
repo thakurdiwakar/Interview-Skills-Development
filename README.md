@@ -1,16 +1,17 @@
 # Interview Prep
 
-Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a comprehensive set of questions to help you succeed.
+Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job
+functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a
+comprehensive set of questions to help you succeed.
 
+### How to contribute?
+1.First of all star ⭐ the Repo and follow my github [Diwakar Singh](https://github.com/thakurdiwakar).
 
-### Getting Started
-
-1. Fork the repository.
-2. Create a new branch for your contribution.
-3. Make your changes and test them locally.
-4. Push your changes to your fork.
-5. Open a pull request (PR) with a clear description of your changes and their purpose.
-
+2. Fork the repository.
+3. Create a new branch for your contribution.
+4. Make your changes and test them locally.
+5. Push your changes to your fork.
+6. Open a pull request (PR) with a clear description of your changes and their purpose.
 
 ## Topics
 
@@ -29,11 +30,10 @@ Our repository covers the following topics:
 - [Web Development](#web-development)
 - [Common Job Interview Questions](#common-job-interview-questions)
 
-
 You can suggest some more topics to be covered
 
-Each topic includes a set of questions to help you prepare for your interview. We've curated these questions to cover a wide range of scenarios and job functions, and we've included answers to help guide your preparation.
-
+Each topic includes a set of questions to help you prepare for your interview. We've curated these questions to cover a
+wide range of scenarios and job functions, and we've included answers to help guide your preparation.
 
 ## C CPP
 
@@ -115,13 +115,29 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ## Git & GitHub
 
-1.[What’s the difference between Git and GitHub?](./git.md/1.md)
+1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Git%20vs%20Github.md)
 
-2.[What do you understand by the term ‘Version Control System’?](./git.md/2.md)
+2.[What do you understand by the term ‘Version Control System’?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Version%20Control%20System.md)
 
 3.[What is a git repository?](./git.md/3.md)
 
 4.[What does git clone do?](./git.md/4.md)
+
+5.[What does git status command do?](./git.md/5.md)
+
+6.[Define 'Git Index'?](./git.md/6.md)
+
+7.[What is Git Bash?](./git.md/7.md)
+
+8.[What is forking in Git?](./git.md/8.md)
+
+9.[What is origin in Git?](./git.md/9.md)
+
+10.[What is the difference between ‘git remote’ and ‘git clone’?](./git.md/10.md)
+
+11.[What does the command git config do?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/gitconfig.md)
+
+12.[What is Git Conflict?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/gitconflict.md)
 
 ### Networking Interview Questions
 
@@ -129,7 +145,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 2.[What is the use of a router and how is it different from a gateway?](./networking.md/2.md)
 
-### Operating system 
+### Operating system
 
 1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
 
@@ -163,8 +179,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 16.[Write top 10 examples of OS?](./operatingSystem.md/Ques16.md)
 
-
-### Software Engineering 
+### Software Engineering
 
 1.[What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
 
@@ -172,8 +187,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[What do you mean by Alpha testing and beta testing?](./softwareEngineering.md/ques3.md)
 
-
-## Python 
+## Python
 
 1.[What is a dynamically typed language?](./python.md/ques1.md)
 
@@ -181,7 +195,11 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[Explain the concept of recursion?](./python.md/ques3.md)
 
-### Web Development 
+4.[Describe the strings used in python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/python.md/strings%20in%20python.md)
+
+5.[What is Walrus Operator in Python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/python.md/walrus%20operator%20in%20python.md)
+
+### Web Development
 
 1.[What is Hydration](./web.md/ques1.md)
 
@@ -203,21 +221,33 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 10.[Why are media queries used in CSS?](./web.md/ques10.md)
 
+11.[What are the differences between JSON and XML?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/web.md/differences%20between%20JSON%20and%20XML%3F.md)
+
 ### JavaScript Interview Questions
 
 1.[Explain Hoisting in javascript?](./js.md/1.md)
 
+2.[What are the different data types present in javascript?](./js.md/2.md)
+
+3.[What is DOM?](./js.md/dom.md)
+
+4.[Difference between var and let keyword in javascript.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/var%20vs%20let.md)
+
+5.[Difference between Event Handler and Event listener?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/Difference%20between%20Event%20Handler%20and%20Event%20listener.md)
+
+6.[Explain different types of Event in javaScript?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/Difference%20between%20Event%20Handler%20and%20Event%20listener.md)
+
 ### Java Interview Questions
 
-1.[what is jagged Array in java ? ](./java.md/1.md)
+1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/jagged%20array.md)
 
-2.[Define wrapper class in java with example? ](./java.md/2.md)
+2.[Define wrapper class in java with example? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Wrapper%20Class.md)
 
-3.[Why Java is not a purely Object-Oriented Language? ](./java.md/3.md)
+3.[Why Java is not a purely Object-Oriented Language? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Why%20Java%20is%20not%20a%20purely%20Object-Oriented%20Language.md)
 
-4.[Exception Handling in Java?](./java.md/4.md)
+4.[Exception Handling in Java?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Exception%20Handling.md)
 
-5.[Static keyword in Java](./java.md/5.md)
+5.[Static keyword in Java](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Static%20Keyword.md)
 
 6.[What is the difference between JDK and JRE?](./java.md/6.md)
 
@@ -308,38 +338,118 @@ Each topic includes a set of questions to help you prepare for your interview. W
  26.Describe your ideal company, location and job?
  
  27.Do you have any questions for me?
+=======
+6.[What is the difference between JDK and
+JRE?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Diffrence%20Between%20JDK%20and%20JVM.md)
+
+7.[Why is Java a platform independent
+language?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Why%20Java%20is%20platform%20independent%20language.md)
+
+8.[What is the difference between an
+abstract class and an interface?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Diffrence%20between%20abstract%20class%20and%20an%20interface.md)
+
+9.[What is the difference between final,
+finally, and finalize?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/final%2C%20finally%20and%20finalize%20keywords.md)
+
+10.[Why String is immutable in Java?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/why%20String%20is%20immutable.md)
+
+11.[Questions On JDBC](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/JDBC.md)
+
+12.[Questions On OPP's]()
+
+13.[Collection Framework](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Collection%20Framework.md)
+
+14.[Explain thread synchronization and how u can achieve the Thread Synchronization in Java.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/thread_synchronization.md)
+
+15.[Tell the uses of "this" keyword in JAVA](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/826ee925bc74e387e4bc18b3572857e0a9d62149/java.md/Tell%20the%20uses%20of%20%22this%22%20keyword%20in%20JAVA.md)
+
+
+
+## Common Job Interview Questions
+
+1.Tell me about yourself
+
+2.What is your greatest strength?
+
+3.What is your greatest weakness?
+
+4.Why should we hire you?
+
+5.Why do you want to work here?
+
+6.Tell me about a time you showed leadership.
+
+7.Tell me about a time you were successful on a team.
+
+8.What would your co-workers say about you?
+
+9.Why do you want to leave your current role?
+
+10.Describe your most challenging project.
+
+11.Tell me about something you’ve accomplished that you are proud of.
+
+12.Can you explain your employment gap?
+
+13.What are your salary expectations?
+
+14.What do you like to do outside of work?
+
+15.Tell me about a time you had to manage conflicting priorities.
+
+16.Where do you see yourself in 5 years?
+
+17.Describe your leadership style.
+
+18.Tell me about a time you failed or made a mistake.
+
+19.Tell me about a time you worked with a difficult person.
+
+20.Tell me about a time you had to persuade someone.
+
+21.Tell me about a time you disagreed with someone.
+
+22.Tell me about a time you created a goal and achieved it.
+
+23.Tell me about a time you surpassed people’s expectations.
+
+24.Tell me about a time you had to handle pressure.
+
+25.Tell me about a time you had to learn something quickly.
+
+26.Describe your ideal company, location and job?
+
+27.Do you have any questions for me?
 
 ## Contributing
 
-We believe that the best resources are the ones that are created collaboratively. That's why we invite you to contribute your own interview questions and insights to our repository. To do so, simply fork this repository, add your questions, and submit a pull request. We'll review your contribution and merge it if it meets our standards.
-
-
+We believe that the best resources are the ones that are created collaboratively. That's why we invite you to contribute
+your own interview questions and insights to our repository. To do so, simply fork this repository, add your questions,
+and submit a pull request. We'll review your contribution and merge it if it meets our standards.
 
 ## Feedback
 
-We are always looking for ways to improve our repository and make it more useful for job seekers around the world. If you have any feedback or suggestions, please don't hesitate to open an issue or reach out to us directly.
+We are always looking for ways to improve our repository and make it more useful for job seekers around the world. If
+you have any feedback or suggestions, please don't hesitate to open an issue or reach out to us directly.
 
-We hope that this repository helps you feel more confident and prepared as you navigate the job search process. Good luck with your interviews!
+We hope that this repository helps you feel more confident and prepared as you navigate the job search process. Good
+luck with your interviews!
 
-
-# Owners of this Repository
-
-This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar) and [Sahil](https://github.com/Sahilz9).
-
-## About the Owners
-
-- [Diwakar Singh](https://github.com/thakurdiwakar). 
-- [Sahil Yadav](https://github.com/Sahilz9).
-
-## Contact Information
-
-If you have any questions, comments, or concerns about this repository, please contact the owners:
-
-- [Diwakar SIngh](mailto:diwkr14@gmail.com)
-- [Sahil Yadav](mailto:owner2@example.com)
 
 ## Project Contributors⭐
 
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/thakurdiwakar/Interview-Skills-Development/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thakurdiwakar/Interview-Skills-Development" />
+</a>
+		</td>
+	</tr>
+</table>
 
+# Owners of this Repository
 
+This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar)
+and [Sahil](https://github.com/Sahilz9).
 
