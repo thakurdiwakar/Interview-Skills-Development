@@ -113,6 +113,9 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 10.[What is a degree of Relation?](./dbms.md/ques10.md)
 
+11.[What is sharding?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/dbms.md/What%20is%20sharding.md)
+
+
 ## Git & GitHub
 
 1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Git%20vs%20Github.md)
