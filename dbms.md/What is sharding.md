@@ -10,11 +10,19 @@ There are two main types of sharding: horizontal sharding and vertical sharding.
 * **Vertical sharding** divides the data into shards based on the columns in a table. For example, a database of customer records could be sharded by the customer's first name, last name, and email address. This would mean that all customer records with the same first name would be stored in the same shard.
 
 ### Features of Sharding:
+
 Sharding makes the Database smaller
+
 Sharding makes the Database faster
+
 Sharding makes the Database much more easily manageable
+
 Sharding can be a complex operation sometimes
+
 Sharding reduces the transaction cost of the Database
+
 Each shard reads and writes its own data.
+
 Many NoSQL databases offer auto-sharding.
+
 Failure of one shard doesn’t effect the data processing of other shards.
