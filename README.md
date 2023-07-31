@@ -115,7 +115,7 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 11.[What is sharding?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/dbms.md/What%20is%20sharding.md)
 
-12.[Difference between vertical and horizontal scaling?]()
+12.[Difference between vertical and horizontal scaling?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/dbms.md/Difference%20between%20vertical%20and%20horizontal%20scaling.md)
 
 
 ## Git & GitHub
