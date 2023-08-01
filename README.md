@@ -117,6 +117,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 12.[Difference between vertical and horizontal scaling?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/dbms.md/Difference%20between%20vertical%20and%20horizontal%20scaling.md)
 
+13.[What is indexing in dbms?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/dbms.md/What%20is%20indexing%20in%20dbms%3F.md)
+
 
 ## Git & GitHub
 
