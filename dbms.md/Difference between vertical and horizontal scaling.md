@@ -1,4 +1,4 @@
-## Difference between vertical and horizontal scaling?
+## Difference between Vertical and Horizontal scaling?
 
 
 
