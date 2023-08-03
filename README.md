@@ -119,6 +119,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 13.[What is indexing in dbms?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/dbms.md/What%20is%20indexing%20in%20dbms%3F.md)
 
+14.[What is denormalization ?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/dbms.md/What%20is%20indexing%20in%20dbms%3F.md)
+
 
 ## Git & GitHub
 
