@@ -6,6 +6,10 @@
 
 ### C/C++ Notes - https://drive.google.com/file/d/1Nr0zFlrIYVKtLaZ-Nuh2TRmMVggf41MG/view?usp=sharing
 
+### C++ STL Notes - https://drive.google.com/file/d/1e24Pvl4_kLvA7L2UFOgBuSzb-rU2zSZt/view?usp=drive_link
+
+### Trees DSA Notes - https://drive.google.com/file/d/1e24Pvl4_kLvA7L2UFOgBuSzb-rU2zSZt/view?usp=drive_link
+
 ### OOPs Notes - https://drive.google.com/file/d/1W0-YsFx9M9jXbVNpWQPxWuXvFUCiiAKJ/view?usp=drive_link
 
 
