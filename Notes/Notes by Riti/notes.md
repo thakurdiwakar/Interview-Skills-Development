@@ -12,6 +12,27 @@
 
 ### OOPs Notes - https://drive.google.com/file/d/1W0-YsFx9M9jXbVNpWQPxWuXvFUCiiAKJ/view?usp=drive_link
 
+### Computer Networks Notes - https://drive.google.com/file/d/1h-2jQhnvW_CKJRa2ygyns05D4s9GT1IN/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Credit - [Riti Kumari](https://github.com/riti2409)
+
 
 
 
