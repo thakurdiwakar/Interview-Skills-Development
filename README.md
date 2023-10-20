@@ -290,8 +290,6 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 
 
-
-
 ##  Common Job Interview Questions
 
  1.Tell me about yourself
@@ -347,30 +345,7 @@ wide range of scenarios and job functions, and we've included answers to help gu
  26.Describe your ideal company, location and job?
  
  27.Do you have any questions for me?
-=======
-6.[What is the difference between JDK and
-JRE?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Diffrence%20Between%20JDK%20and%20JVM.md)
 
-7.[Why is Java a platform independent
-language?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Why%20Java%20is%20platform%20independent%20language.md)
-
-8.[What is the difference between an
-abstract class and an interface?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Diffrence%20between%20abstract%20class%20and%20an%20interface.md)
-
-9.[What is the difference between final,
-finally, and finalize?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/final%2C%20finally%20and%20finalize%20keywords.md)
-
-10.[Why String is immutable in Java?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/why%20String%20is%20immutable.md)
-
-11.[Questions On JDBC](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/JDBC.md)
-
-12.[Questions On OPP's]()
-
-13.[Collection Framework](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Collection%20Framework.md)
-
-14.[Explain thread synchronization and how u can achieve the Thread Synchronization in Java.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/thread_synchronization.md)
-
-15.[Tell the uses of "this" keyword in JAVA](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Tell%20the%20uses%20of%20%22this%22%20keyword%20in%20JAVA.md)
 
 
 
