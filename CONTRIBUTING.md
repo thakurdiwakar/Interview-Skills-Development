@@ -31,7 +31,7 @@ Thank you for your interest in contributing to this project! We welcome contribu
 
 ## Code of Conduct
 
-This project follows a [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to adhere to it in all project spaces.
+This project follows a [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). We expect all contributors to adhere to it in all project spaces.
 
 ## Reporting Issues
 
