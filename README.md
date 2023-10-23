@@ -155,6 +155,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 2.[What is the use of a router and how is it different from a gateway?](./networking.md/2.md)
 
+2.[Why do we require IP address when we can identify a device by its MAC address in a network?](./networking.md/3.md)
+
 ### Operating system
 
 1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
