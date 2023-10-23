@@ -119,6 +119,7 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 13.[What is indexing in dbms?](./dbms.md/ques13.md)
 
+14.[What is normalization, and why is it important in database design?](./dbms.md/ques14.md)
 
 
 
