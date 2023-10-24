@@ -237,6 +237,7 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 
 ### React Interview Questions
+1.[Class Component Vs. Functional Component](https://github.com/KarmakarRahul/Interview-Skills-Development/blob/main/react.md/Class%20VS%20Functional%20component.md)
 
 ### JavaScript Interview Questions
 
