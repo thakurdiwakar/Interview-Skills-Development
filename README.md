@@ -236,9 +236,6 @@ wide range of scenarios and job functions, and we've included answers to help gu
 11.[What are the differences between JSON and XML?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/web.md/differences%20between%20JSON%20and%20XML%3F.md)
 
 
-### React Interview Questions
-1.[Class Component Vs. Functional Component](https://github.com/KarmakarRahul/Interview-Skills-Development/blob/main/react.md/Class%20VS%20Functional%20component.md)
-
 ### JavaScript Interview Questions
 
 1.[Explain Hoisting in javascript?](./js.md/1.md)
@@ -314,6 +311,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 7.[What is JSX?](./react.md/7.md)
 
 8.[What is State in React?](./react.md/8.md)
+
+9 .[Class Component Vs. Functional Component](./react.md/9.md)
 
 
 ## Common Job Interview Questions
