@@ -123,6 +123,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 14.[What is normalization, and why is it important in database design?](./dbms.md/ques14.md)
 
+15.[What is Functional Dependency in DBMS?](https://github.com/Soumya6Tiwari/Interview-Skills-Development/tree/8a7e072a994e4bd4f4f26435fdc07c789ee47b9e/dbms.md)
+
 ## Git & GitHub
 
 1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Git%20vs%20Github.md)
