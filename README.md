@@ -101,6 +101,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 2.[What is the use of a router and how is it different from a gateway?](./networking.md/2.md)
 
+3.[what do you mean by Firewall?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/0ad5a1376019fd4454e5b0bfcf4032400a730056/networking.md/Firewall%20in%20Computer%20Network.md)
+
 ### Operating system Interview Questions
 
 1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
