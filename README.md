@@ -157,6 +157,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 3.[Why do we require IP address when we can identify a device by its MAC address in a network?](./networking.md/3.md)
 
+4.[what do you mean by Firewall?](https://github.com/Soumya6Tiwari/Interview-Skills-Development/blob/0ad5a1376019fd4454e5b0bfcf4032400a730056/networking.md/Firewall%20in%20Computer%20Network.md)
+
 ### Operating system
 
 1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
