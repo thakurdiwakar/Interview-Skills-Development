@@ -95,6 +95,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 10.[What is a degree of Relation?](./dbms.md/ques10.md)
 
+11.[What is Functional Dependency in DBMS?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/8a7e072a994e4bd4f4f26435fdc07c789ee47b9e/dbms.md/Functional%20Dependency%20In%20DBMS%20.md)
+
 ### Networking Interview Questions
 
 1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
