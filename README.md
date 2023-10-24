@@ -296,6 +296,25 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 20.[Why is the main method static?](./java.md/20.md)
 
+## React Interview Questions
+
+1.[What is React?](./react.md/1.md)
+
+2.[Why should I use React?](./react.md/2.md)
+
+3.[How to get started with React](./react.md/3.md)
+
+4.[What are React components?](./react.md/4.md)
+
+5.[How to create a React component](./react.md/5.md)
+
+6.[How to render a React component](./react.md/6.md)
+
+7.[What is JSX?](./react.md/7.md)
+
+8.[What is State in React?](./react.md/8.md)
+
+
 ## Common Job Interview Questions
 
 1.Tell me about yourself
