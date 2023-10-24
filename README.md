@@ -252,6 +252,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 6.[Explain different types of Event in javaScript?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/Difference%20between%20Event%20Handler%20and%20Event%20listener.md)
 
+7.[Difference between "==" and "===" in javascript.](https://github.com/roshan798/Interview-Skills-Development/blob/main/js.md/%3D%3D%20vs%20%3D%3D%3D.md)
+
 ### Java Interview Questions
 
 1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/jagged%20array.md)
