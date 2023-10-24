@@ -29,6 +29,7 @@ Our repository covers the following topics:
 - [Python](#python)
 - [Software Engineering](#software-engineering)
 - [Web Development](#web-development)
+- [React Interview Questions](#react-interview-questions)
 - [Common Job Interview Questions](#common-job-interview-questions)
 
 You can suggest some more topics to be covered
@@ -233,6 +234,9 @@ wide range of scenarios and job functions, and we've included answers to help gu
 10.[Why are media queries used in CSS?](./web.md/ques10.md)
 
 11.[What are the differences between JSON and XML?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/web.md/differences%20between%20JSON%20and%20XML%3F.md)
+
+
+### React Interview Questions
 
 ### JavaScript Interview Questions
 
