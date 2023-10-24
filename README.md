@@ -5,6 +5,7 @@ functions. Whether you're preparing for a job interview or looking to improve yo
 comprehensive set of questions to help you succeed.
 
 ### How to contribute?
+
 1.First of all star ⭐ the Repo and follow my github [Diwakar Singh](https://github.com/thakurdiwakar).
 
 2. Fork the repository.
@@ -17,7 +18,7 @@ comprehensive set of questions to help you succeed.
 
 Our repository covers the following topics:
 
-- [C  CPP](#c-cpp)
+- [C CPP](#c-cpp)
 - [Coding Interview Questions](#coding-interview-questions)
 - [Database Management Interview Questions](#database-management-interview-questions)
 - [Git & GitHub](#git--github)
@@ -121,8 +122,6 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 14.[What is normalization, and why is it important in database design?](./dbms.md/ques14.md)
 
-
-
 ## Git & GitHub
 
 1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Git%20vs%20Github.md)
@@ -154,6 +153,8 @@ wide range of scenarios and job functions, and we've included answers to help gu
 1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
 
 2.[What is the use of a router and how is it different from a gateway?](./networking.md/2.md)
+
+3.[Why do we require IP address when we can identify a device by its MAC address in a network?](./networking.md/3.md)
 
 ### Operating system
 
@@ -289,65 +290,61 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 20.[Why is the main method static?](./java.md/20.md)
 
+## Common Job Interview Questions
 
+1.Tell me about yourself
 
-##  Common Job Interview Questions
+2.What is your greatest strength?
 
- 1.Tell me about yourself
- 
- 2.What is your greatest strength?
- 
- 3.What is your greatest weakness?
- 
- 4.Why should we hire you?
- 
- 5.Why do you want to work here?
- 
- 6.Tell me about a time you showed leadership.
- 
- 7.Tell me about a time you were successful on a team.
- 
- 8.What would your co-workers say about you?
- 
- 9.Why do you want to leave your current role?
- 
- 10.Describe your most challenging project.
- 
- 11.Tell me about something you’ve accomplished that you are proud of.
- 
- 12.Can you explain your employment gap?
- 
- 13.What are your salary expectations?
- 
- 14.What do you like to do outside of work?
- 
- 15.Tell me about a time you had to manage conflicting priorities.
- 
- 16.Where do you see yourself in 5 years?
- 
- 17.Describe your leadership style.
- 
- 18.Tell me about a time you failed or made a mistake.
- 
- 19.Tell me about a time you worked with a difficult person.
- 
- 20.Tell me about a time you had to persuade someone.
- 
- 21.Tell me about a time you disagreed with someone.
- 
- 22.Tell me about a time you created a goal and achieved it.
- 
- 23.Tell me about a time you surpassed people’s expectations.
- 
- 24.Tell me about a time you had to handle pressure.
- 
- 25.Tell me about a time you had to learn something quickly.
- 
- 26.Describe your ideal company, location and job?
- 
- 27.Do you have any questions for me?
+3.What is your greatest weakness?
 
+4.Why should we hire you?
 
+5.Why do you want to work here?
+
+6.Tell me about a time you showed leadership.
+
+7.Tell me about a time you were successful on a team.
+
+8.What would your co-workers say about you?
+
+9.Why do you want to leave your current role?
+
+10.Describe your most challenging project.
+
+11.Tell me about something you’ve accomplished that you are proud of.
+
+12.Can you explain your employment gap?
+
+13.What are your salary expectations?
+
+14.What do you like to do outside of work?
+
+15.Tell me about a time you had to manage conflicting priorities.
+
+16.Where do you see yourself in 5 years?
+
+17.Describe your leadership style.
+
+18.Tell me about a time you failed or made a mistake.
+
+19.Tell me about a time you worked with a difficult person.
+
+20.Tell me about a time you had to persuade someone.
+
+21.Tell me about a time you disagreed with someone.
+
+22.Tell me about a time you created a goal and achieved it.
+
+23.Tell me about a time you surpassed people’s expectations.
+
+24.Tell me about a time you had to handle pressure.
+
+25.Tell me about a time you had to learn something quickly.
+
+26.Describe your ideal company, location and job?
+
+27.Do you have any questions for me?
 
 ## Contributing
 
@@ -362,7 +359,6 @@ you have any feedback or suggestions, please don't hesitate to open an issue or 
 
 We hope that this repository helps you feel more confident and prepared as you navigate the job search process. Good
 luck with your interviews!
-
 
 ## Project Contributors⭐
 
@@ -380,4 +376,3 @@ luck with your interviews!
 
 This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar)
 and [Sahil](https://github.com/Sahilz9).
-
