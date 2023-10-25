@@ -240,13 +240,17 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 2.[What are the different data types present in javascript?](./js.md/2.md)
 
-3.[What is DOM?](./js.md/dom.md)
+3.[What is DOM?](./js.md/3.md)
 
-4.[Difference between var and let keyword in javascript.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/var%20vs%20let.md)
+4.[Difference between var and let keyword in javascript.](./js.md/4.md)
 
-5.[Difference between Event Handler and Event listener?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/Difference%20between%20Event%20Handler%20and%20Event%20listener.md)
+5.[Difference between Event Handler and Event listener?](./js.md/5.md)
 
-6.[Explain different types of Event in javaScript?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/Difference%20between%20Event%20Handler%20and%20Event%20listener.md)
+6.[Explain different types of Event in javaScript?](./js.md/6.md)
+
+7.[Which is faster virtual DOM or Real DOM in React JS?](./js.md/7.md)
+
+8.[Which consumes more memory virtual DOM or Real DOM?](./js.md/8.md)
 
 ### Java Interview Questions
 
