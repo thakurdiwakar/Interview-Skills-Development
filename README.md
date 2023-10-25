@@ -312,8 +312,11 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 8.[What is State in React?](./react.md/8.md)
 
-9 .[Class Component Vs. Functional Component](./react.md/9.md)
+9.[Class Component Vs. Functional Component](./react.md/9.md)
 
+10.[Which is faster virtual DOM or Real DOM in React JS?](./react.md/10.md)
+
+11.[Which consumes more memory virtual DOM or Real DOM?](./react.md/11.md)
 
 ## Common Job Interview Questions
 
