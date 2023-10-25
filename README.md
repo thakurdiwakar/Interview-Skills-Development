@@ -250,11 +250,7 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 6.[Explain different types of Event in javaScript?](./js.md/6.md)
 
-7.[Which is faster virtual DOM or Real DOM in React JS?](./js.md/7.md)
-
-8.[Which consumes more memory virtual DOM or Real DOM?](./js.md/8.md)
-
-7.[Difference between "==" and "===" in javascript.](https://github.com/roshan798/Interview-Skills-Development/blob/main/js.md/%3D%3D%20vs%20%3D%3D%3D.md)
+7.[Difference between "==" and "===" in javascript.](./js.md/7.md)
 
 ### Java Interview Questions
 
