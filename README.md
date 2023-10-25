@@ -242,15 +242,15 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 2.[What are the different data types present in javascript?](./js.md/2.md)
 
-3.[What is DOM?](./js.md/dom.md)
+3.[What is DOM?](./js.md/3.md)
 
-4.[Difference between var and let keyword in javascript.](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/var%20vs%20let.md)
+4.[Difference between var and let keyword in javascript.](./js.md/4.md)
 
-5.[Difference between Event Handler and Event listener?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/Difference%20between%20Event%20Handler%20and%20Event%20listener.md)
+5.[Difference between Event Handler and Event listener?](./js.md/5.md)
 
-6.[Explain different types of Event in javaScript?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/js.md/Difference%20between%20Event%20Handler%20and%20Event%20listener.md)
+6.[Explain different types of Event in javaScript?](./js.md/6.md)
 
-7.[Difference between "==" and "===" in javascript.](https://github.com/roshan798/Interview-Skills-Development/blob/main/js.md/%3D%3D%20vs%20%3D%3D%3D.md)
+7.[Difference between "==" and "===" in javascript.](./js.md/7.md)
 
 ### Java Interview Questions
 
@@ -312,8 +312,11 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 8.[What is State in React?](./react.md/8.md)
 
-9 .[Class Component Vs. Functional Component](./react.md/9.md)
+9.[Class Component Vs. Functional Component](./react.md/9.md)
 
+10.[Which is faster virtual DOM or Real DOM in React JS?](./react.md/10.md)
+
+11.[Which consumes more memory virtual DOM or Real DOM?](./react.md/11.md)
 
 ## Common Job Interview Questions
 
