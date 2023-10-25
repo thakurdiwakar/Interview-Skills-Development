@@ -20,5 +20,8 @@ jobs:
         uses: actions/first-interaction@v1
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: "Congratulations!!🎉 and Thank you for raising the issue! 🙌 Our maintainer will review it and keep you posted. Your contribution is appreciated. 🚀 Stay tuned for updates! 🌟"
-          pr-message: "Congratulations!!🎉 and Thank you for the open pull request! 🙌 Our maintainer will review it and provide feedback soon. Your contribution is valued. 🚀 We'll keep you posted on progress! 🌟"
+             issue-message: "Congratulations!!🎉 and Thank you for raising the issue! 🙌 Our maintainer will review it and keep you posted. Your contribution is appreciated. 🚀 Stay tuned for updates! 🌟
+           Follow the steps given in the [CONTRIBUTION.md](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/CONTRIBUTING.md)"
+
+pr-message: "Congratulations!!🎉 and Thank you for the open pull request! 🙌 Our maintainer will review it and provide feedback soon. Your contribution is valued. 🚀 We'll keep you posted on progress! 🌟
+Follow the steps given in the [CONTRIBUTION.md](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/CONTRIBUTING.md)"
