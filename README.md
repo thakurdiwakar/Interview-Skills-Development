@@ -248,10 +248,6 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 6.[Explain different types of Event in javaScript?](./js.md/6.md)
 
-7.[Which is faster virtual DOM or Real DOM in React JS?](./js.md/7.md)
-
-8.[Which consumes more memory virtual DOM or Real DOM?](./js.md/8.md)
-
 ### Java Interview Questions
 
 1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/jagged%20array.md)
