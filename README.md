@@ -1,3 +1,23 @@
+[![Contributors][contributors-shield]][contributors-url]&nbsp;&nbsp;&nbsp;&nbsp;[![Forks][forks-shield]][forks-url]&nbsp;&nbsp;&nbsp;&nbsp;[![Stargazers][stars-shield]][stars-url]&nbsp;&nbsp;&nbsp;&nbsp;[![Issues][issues-shield]][issues-url]&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/thakurdiwakar/Interview-Skills-Development.svg?style=for-the-badge
+[contributors-url]: https://github.com/thakurdiwakar/Interview-Skills-Development/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/thakurdiwakar/Interview-Skills-Development.svg?style=for-the-badge
+[forks-url]: https://github.com/thakurdiwakar/Interview-Skills-Development/network/members
+[stars-shield]: https://img.shields.io/github/stars/thakurdiwakar/Interview-Skills-Development.svg?style=for-the-badge
+[stars-url]: https://github.com/thakurdiwakar/Interview-Skills-Development/stargazers
+[issues-shield]: https://img.shields.io/github/issues/thakurdiwakar/Interview-Skills-Development.svg?style=for-the-badge
+[issues-url]: https://github.com/thakurdiwakar/Interview-Skills-Development/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/thakurdiwakar
+
+
+
+
 # Interview Prep
 
 Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job
