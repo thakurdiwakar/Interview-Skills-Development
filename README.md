@@ -339,6 +339,23 @@ wide range of scenarios and job functions, and we've included answers to help gu
 
 10. [What programming languages and libraries are commonly used for machine learning, and what are their key features?](./MachineLearning.md/10.md)
 
+# Computer Science Engineering Project Ideas
+
+Welcome to the Computer Science Engineering Project Ideas repository. This repository contains a collection of project ideas suitable for computer science engineering students. These projects are designed to help you build your skills, enhance your portfolio, and prepare for interviews.
+
+## Projects
+
+1. [Online Portfolio Website](./Project%20ideas/1.md)
+2. [E-commerce Website](./Project%20ideas/2.md)
+3. [Task Manager Application](./Project%20ideas/3.md)
+4. [Social Media Clone](./Project%20ideas/4.md)
+5. [Chat Application](./Project%20ideas/5.md)
+6. [Weather App](./Project%20ideas/6.md)
+7. [Machine Learning Project](./Project%20ideas/7.md)
+8. [Expense Tracker](./Project%20ideas/8.md)
+9. [Simple Game Development](./Project%20ideas/9.md)
+10. [IoT Project](./Project%20ideas/10.md)
+
 ## Common Job Interview Questions
 
 1.Tell me about yourself
