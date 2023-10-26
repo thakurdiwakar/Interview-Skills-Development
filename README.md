@@ -1,13 +1,36 @@
+[![Contributors][contributors-shield]][contributors-url]&nbsp;&nbsp;&nbsp;&nbsp;[![Forks][forks-shield]][forks-url]&nbsp;&nbsp;&nbsp;&nbsp;[![Stargazers][stars-shield]][stars-url]&nbsp;&nbsp;&nbsp;&nbsp;[![Issues][issues-shield]][issues-url]&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/thakurdiwakar/Interview-Skills-Development.svg?style=for-the-badge
+[contributors-url]: https://github.com/thakurdiwakar/Interview-Skills-Development/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/thakurdiwakar/Interview-Skills-Development.svg?style=for-the-badge
+[forks-url]: https://github.com/thakurdiwakar/Interview-Skills-Development/network/members
+[stars-shield]: https://img.shields.io/github/stars/thakurdiwakar/Interview-Skills-Development.svg?style=for-the-badge
+[stars-url]: https://github.com/thakurdiwakar/Interview-Skills-Development/stargazers
+[issues-shield]: https://img.shields.io/github/issues/thakurdiwakar/Interview-Skills-Development.svg?style=for-the-badge
+[issues-url]: https://github.com/thakurdiwakar/Interview-Skills-Development/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/thakurdiwakar
+
+
+
 # Interview Prep
 
-Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job
-functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a
-comprehensive set of questions to help you succeed.
+Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a comprehensive set of questions to help you succeed.
 
-### How to contribute?
+## Table of Contents
 
-1.First of all star ⭐ the Repo and follow my github [Diwakar Singh](https://github.com/thakurdiwakar).
+- [How to Contribute](#how-to-contribute)
+- [Topics](#topics)
+- [Contributors](#contributors)
+- [Owners of this Repository](#owners-of-this-repository)
 
+## How to Contribute
+
+1. First of all, star ⭐ the Repo and follow my GitHub, [Diwakar Singh](https://github.com/thakurdiwakar).
 2. Fork the repository.
 3. Create a new branch for your contribution.
 4. Make your changes and test them locally.
@@ -18,24 +41,30 @@ comprehensive set of questions to help you succeed.
 
 Our repository covers the following topics:
 
-- [C CPP](#c-cpp)
-- [Coding Interview Questions](#coding-interview-questions)
-- [Database Management Interview Questions](#database-management-interview-questions)
-- [Git & GitHub](#git--github)
-- [Java Interview Questions](#java-interview-questions)
-- [JavaScript Interview Questions](#javascript-interview-questions)
-- [Networking Interview Questions](#networking-interview-questions)
-- [Operating System](#operating-system)
-- [Python](#python)
-- [Software Engineering](#software-engineering)
-- [Web Development](#web-development)
-- [React Interview Questions](#react-interview-questions)
-- [Common Job Interview Questions](#common-job-interview-questions)
+| Topic                             | Link                                  |
+|-----------------------------------|---------------------------------------|
+| C CPP                             | [C CPP](#c-cpp)                       |
+| Coding Interview Questions        | [Coding Interview Questions](#coding-interview-questions) |
+| Common Job Interview Questions    | [Common Job Interview Questions](#common-job-interview-questions) |
+| Database Management Interview     | [Database Management Interview Questions](#database-management-interview-questions) |
+| Git & GitHub                      | [Git & GitHub](#git--github)           |
+| Java Interview Questions          | [Java Interview Questions](#java-interview-questions) |
+| JavaScript Interview Questions    | [JavaScript Interview Questions](#javascript-interview-questions) |
+| Networking Interview Questions    | [Networking Interview Questions](#networking-interview-questions) |
+| Operating System                  | [Operating System](#operating-system) |
+| Python                            | [Python](#python)                     |
+| React Interview Questions         | [React Interview Questions](#react-interview-questions) |
+| Software Engineering              | [Software Engineering](#software-engineering) |
+| Web Development                   | [Web Development](#web-development)   |
 
-You can suggest some more topics to be covered
 
-Each topic includes a set of questions to help you prepare for your interview. We've curated these questions to cover a
-wide range of scenarios and job functions, and we've included answers to help guide your preparation.
+
+Each topic includes a set of questions to help you prepare for your interview. We've curated these questions to cover a wide range of scenarios and job functions, and we've included answers to help guide your preparation.
+
+
+
+
+
 
 ## C CPP
 
@@ -426,7 +455,7 @@ you have any feedback or suggestions, please don't hesitate to open an issue or 
 We hope that this repository helps you feel more confident and prepared as you navigate the job search process. Good
 luck with your interviews!
 
-## Project Contributors⭐
+## Contributors⭐
 
 <table>
 	<tr>
@@ -441,4 +470,4 @@ luck with your interviews!
 # Owners of this Repository
 
 This repository is owned and maintained by [Diwakar ](https://github.com/thakurdiwakar)
-and [Sahil](https://github.com/Sahilz9).
+
