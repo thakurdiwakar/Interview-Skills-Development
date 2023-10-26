@@ -347,6 +347,27 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 11.[Which consumes more memory virtual DOM or Real DOM?](./react.md/11.md)
 
+## Machine Learning Basics Questions everyone should know
+1. [What is machine learning, and how does it differ from traditional programming?](./MachineLearning.md/1.md)
+
+2. [What are the main categories of machine learning algorithms, and what are their key characteristics?](./MachineLearning.md/2.md)
+
+3. [What is supervised learning, and can you provide an example of a supervised learning problem?](./MachineLearning.md/3.md)
+
+4. [What is unsupervised learning, and can you provide an example of an unsupervised learning problem?](./MachineLearning.md/4.md)
+
+5. [What is the difference between classification and regression in machine learning?](./MachineLearning.md/5.md)
+
+6. [What is overfitting in machine learning, and how can it be prevented or mitigated?](./MachineLearning.md/6.md)
+
+7. [What is the role of training and testing datasets in the machine learning process?](./MachineLearning.md/7.md)
+
+8. [How do you evaluate the performance of a machine learning model, and what are common evaluation metrics?](./MachineLearning.md/8.md)
+
+9. [What is feature engineering, and why is it important in machine learning?](./MachineLearning.md/9.md)
+
+10. [What programming languages and libraries are commonly used for machine learning, and what are their key features?](./MachineLearning.md/10.md)
+
 ## Common Job Interview Questions
 
 1.Tell me about yourself
