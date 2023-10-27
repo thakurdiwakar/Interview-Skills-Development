@@ -1,0 +1,2 @@
+# What are the elements of the CSS Box Model?
+The CSS box model defines the layout and design of CSS elements. The elements are content (like text and images, padding (the area around content), border (the area around padding), and margin (the area around the border). 
