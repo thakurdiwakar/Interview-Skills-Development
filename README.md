@@ -323,6 +323,16 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 20.[Why is the main method static?](./java.md/20.md)
 
+21.[Advantages and disadvantages of Java Sockets?](./java.md/21.md)
+
+22.[Describe synchronization with respect to multithreading?](./java.md/22.md)
+
+23.[What are Lambda Expressions?](./java.md/23.md)
+
+24.[What is the difference between ArrayList and vector? ](./java.md/24.md)
+
+25.[What is HashMap and Map?](./java.md/25.md) 
+
 ## React Interview Questions
 
 1.[What is React?](./react.md/1.md)
