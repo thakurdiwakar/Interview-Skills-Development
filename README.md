@@ -455,13 +455,13 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 11.[What are the differences between JSON and XML?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Web%20Dev/differences%20between%20JSON%20and%20XML%3F.md)
 
-12.[What do you understand by the universal sector?](./web.md/ques12)
+12.[What do you understand by the universal sector?](./Web%20Dev/ques12)
 
-13.[What are the elements of the CSS Box Model?](./web.md/ques13.md)
+13.[What are the elements of the CSS Box Model?](./Web%20Dev/ques13.md)
 
-14.[Differentiate between CSS3 and CSS2?](./web.md/ques14.md)
+14.[Differentiate between CSS3 and CSS2?](./Web%20Dev/ques14.md)
 
-15.[How can CSS be integrated into an HTML page?](./web.md/ques15.md)
+15.[How can CSS be integrated into an HTML page?](./Web%20Dev/ques15.md)
 
 ## 14. Machine Learning Basics Questions everyone should know
 
