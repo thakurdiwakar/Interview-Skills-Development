@@ -43,9 +43,9 @@ Our repository covers the following topics:
 
 | Topic                             | Link                                  |
 |-----------------------------------|---------------------------------------|
-| C & C++                           | [C & C++](##)                   |
-| Coding Interview Questions        | [Coding Interview Questions](#coding-interview-questions) |
-| Common Job Interview Questions    | [Common Job Interview Questions](#common-job-interview-questions) |
+| C & C++                           | [C & C++](#1.)                   |
+| Coding Interview Questions        | [Coding Interview Questions](#Coding-Interview-Questions) |
+| Common Job Interview Questions    | [Common Job Interview Questions](#Common-Job-Interview-Questions) |
 | Database Management Interview     | [Database Management Interview Questions](#database-management-interview-questions) |
 | Git & GitHub                      | [Git & GitHub](#git--github)           |
 | Java Interview Questions          | [Java Interview Questions](#java-interview-questions) |
@@ -71,7 +71,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 
 
-## [![My Skills](https://skillicons.dev/icons?i=c)]() & [![My Skills](https://skillicons.dev/icons?i=cpp)]() 
+## 1.[![My Skills](https://skillicons.dev/icons?i=c)]() & [![My Skills](https://skillicons.dev/icons?i=cpp)]() 
 
 
 1.[What is pragma in C](./C%20&%20C++/1.md)
@@ -188,29 +188,26 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 1. [What is a computer network?](#question-1-what-is-a-computer-network)
 
-2. [What is the use of a router and how is it different from a gateway?](./Compter%20networking/2.md)
+2. [What is the use of a router and how is it different from a gateway?](./Computer%20networking/2.md)
 
-3. [Why do we require IP address when we can identify a device by its MAC address in a network?](./Compter%20networking/3.md)
+3. [Why do we require IP address when we can identify a device by its MAC address in a network?](./Computer%20networking/3.md)
 
-<<<<<<< HEAD
-4. [What do you mean by Network Topology and explain types of them?](./Compter%20networking/4.md)
-=======
+4. [What do you mean by Network Topology and explain types of them?](./Computer%20networking/4.md)
 11.[What is Transmission Control Protocol(TCP)?](https://github.com/khushisingh09/Interview-Skills-Development/blob/main/networking.md/11.md).
 
 ### Operating system
->>>>>>> e5862ac51b62b57dce44daff89f1b3ffc3a7ce72
 
-5. [What is the purpose of the OSI model in networking?](./Compter%20networking/5.md)
+5. [What is the purpose of the OSI model in networking?](./Computer%20networking/5.md)
 
-6. [What is the difference between LAN and WAN?](./Compter%20networking/6.md)
+6. [What is the difference between LAN and WAN?](./Computer%20networking/6.md)
 
-7. [What is a firewall in the context of network security?](./Compter%20networking/7.md)
+7. [What is a firewall in the context of network security?](./Computer%20networking/7.md)
 
-8. [What is the difference between TCP and UDP protocols?](./Compter%20networking/8.md)
+8. [What is the difference between TCP and UDP protocols?](./Computer%20networking/8.md)
 
-9. [What is DNS, and what is its role in networking?](./Compter%20networking/9.md)
+9. [What is DNS, and what is its role in networking?](./Computer%20networking/9.md)
 
-10. [What is a MAC address, and how is it different from an IP address?](./Compter%20networking/10.md)
+10. [What is a MAC address, and how is it different from an IP address?](./Computer%20networking/10.md)
 
 
 ### Operating System
@@ -350,21 +347,21 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 20.[Why is the main method static?](./Java/20.md)
 
-<<<<<<< HEAD
-## [![My Skills](https://skillicons.dev/icons?i=react)]()React Interview Questions
-=======
-21.[Advantages and disadvantages of Java Sockets?](./java.md/21.md)
+21.[Advantages and disadvantages of Java Sockets?](./Java/21.md)
 
-22.[Describe synchronization with respect to multithreading?](./java.md/22.md)
+22.[Describe synchronization with respect to multithreading?](./Java/22.md)
 
-23.[What are Lambda Expressions?](./java.md/23.md)
+23.[What are Lambda Expressions?](./Java/23.md)
 
-24.[What is the difference between ArrayList and vector? ](./java.md/24.md)
+24.[What is the difference between ArrayList and vector? ](./Java/24.md)
 
-25.[What is HashMap and Map?](./java.md/25.md) 
+25.[What is HashMap and Map?](./Java/25.md) 
 
-## React Interview Questions
->>>>>>> e5862ac51b62b57dce44daff89f1b3ffc3a7ce72
+
+
+
+## [![My Skills](https://skillicons.dev/icons?i=react)]() React Interview Questions
+
 
 1.[What is React?](./React/1.md)
 
@@ -388,7 +385,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 11.[Which consumes more memory virtual DOM or Real DOM?](./React/11.md)
 
-## [![My Skills](https://skillicons.dev/icons?i=)]() Machine Learning Basics Questions everyone should know
+## Machine Learning Basics Questions everyone should know
 
 1. [What is machine learning, and how does it differ from traditional programming?](./Machine%20Learning/1.md)
 
