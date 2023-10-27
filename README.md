@@ -186,6 +186,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[Why do we require IP address when we can identify a device by its MAC address in a network?](./networking.md/3.md)
 
+11.[What is Transmission Control Protocol(TCP)?](https://github.com/khushisingh09/Interview-Skills-Development/blob/main/networking.md/11.md).
+
 ### Operating system
 
 1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
