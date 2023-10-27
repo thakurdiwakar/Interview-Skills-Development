@@ -220,6 +220,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 16.[Write top 10 examples of OS?](./operatingSystem.md/Ques16.md)
 
+17.[What is spooling?](./operatingSystem.md/Ques17.md)
+
 ### Software Engineering
 
 1.[What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
