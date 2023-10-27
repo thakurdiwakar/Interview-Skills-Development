@@ -131,59 +131,59 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 ## 3.Common Job Interview Questions
 
-1.Tell me about yourself
+1. [Tell me about yourself](./Common%20interview%20Questions/1.md)
 
-2.What is your greatest strength?
+2. [What is your greatest strength?](./Common%20interview%20Questions/2.md)
 
-3.What is your greatest weakness?
+3. [What is your greatest weakness?](./Common%20interview%20Questions/3.md)
 
-4.Why should we hire you?
+4. [Why should we hire you?](./Common%20interview%20Questions/4.md)
 
-5.Why do you want to work here?
+5. [Why do you want to work here?](./Common%20interview%20Questions/5.md)
 
-6.Tell me about a time you showed leadership.
+6. [Tell me about a time you showed leadership.](./Common%20interview%20Questions/6.md)
 
-7.Tell me about a time you were successful on a team.
+7. [Tell me about a time you were successful on a team.](./Common%20interview%20Questions/7.md)
 
-8.What would your co-workers say about you?
+8. [What would your co-workers say about you?](./Common%20interview%20Questions/8.md)
 
-9.Why do you want to leave your current role?
+9. [Why do you want to leave your current role?](./Common%20interview%20Questions/9.md)
 
-10.Describe your most challenging project.
+10. [Describe your most challenging project.](./Common%20interview%20Questions/10.md)
 
-11.Tell me about something you’ve accomplished that you are proud of.
+11. Tell me about something you’ve accomplished that you are proud of.
 
-12.Can you explain your employment gap?
+12. Can you explain your employment gap?
 
-13.What are your salary expectations?
+13. What are your salary expectations?
 
-14.What do you like to do outside of work?
+14. What do you like to do outside of work?
 
-15.Tell me about a time you had to manage conflicting priorities.
+15. Tell me about a time you had to manage conflicting priorities.
 
-16.Where do you see yourself in 5 years?
+16. Where do you see yourself in 5 years?
 
-17.Describe your leadership style.
+17. Describe your leadership style.
 
-18.Tell me about a time you failed or made a mistake.
+18. Tell me about a time you failed or made a mistake.
 
-19.Tell me about a time you worked with a difficult person.
+19. Tell me about a time you worked with a difficult person.
 
-20.Tell me about a time you had to persuade someone.
+20. Tell me about a time you had to persuade someone.
 
-21.Tell me about a time you disagreed with someone.
+21. Tell me about a time you disagreed with someone.
 
-22.Tell me about a time you created a goal and achieved it.
+22. Tell me about a time you created a goal and achieved it.
 
-23.Tell me about a time you surpassed people’s expectations.
+23. Tell me about a time you surpassed people’s expectations.
 
-24.Tell me about a time you had to handle pressure.
+24. Tell me about a time you had to handle pressure.
 
-25.Tell me about a time you had to learn something quickly.
+25. Tell me about a time you had to learn something quickly.
 
-26.Describe your ideal company, location and job?
+26. Describe your ideal company, location and job?
 
-27.Do you have any questions for me?
+27. Do you have any questions for me?
 
 
 
