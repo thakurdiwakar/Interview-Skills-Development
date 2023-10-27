@@ -264,6 +264,14 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 11.[What are the differences between JSON and XML?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/web.md/differences%20between%20JSON%20and%20XML%3F.md)
 
+12.[What do you understand by the universal sector?](./web.md/ques12)
+
+13.[What are the elements of the CSS Box Model?](./web.md/ques13.md)
+
+14.[Differentiate between CSS3 and CSS2?](./web.md/ques14.md)
+
+15.[How can CSS be integrated into an HTML page?](./web.md/ques15.md)
+
 
 ### JavaScript Interview Questions
 

@@ -1,0 +1,2 @@
+# How can CSS be integrated into an HTML page?
+There are three ways of integrating CSS into HTML: using style tags in the head section, using inline-styling, writing CSS in a separate file, and linking into the HTML page by the link tag.
