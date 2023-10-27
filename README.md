@@ -41,21 +41,25 @@ Welcome to Interview Questions, a repository of commonly asked interview questio
 
 Our repository covers the following topics:
 
-| Topic                             | Link                                  |
-|-----------------------------------|---------------------------------------|
-| C CPP                             | [C CPP](#c-cpp)                       |
-| Coding Interview Questions        | [Coding Interview Questions](#coding-interview-questions) |
-| Common Job Interview Questions    | [Common Job Interview Questions](#common-job-interview-questions) |
-| Database Management Interview     | [Database Management Interview Questions](#database-management-interview-questions) |
-| Git & GitHub                      | [Git & GitHub](#git--github)           |
-| Java Interview Questions          | [Java Interview Questions](#java-interview-questions) |
-| JavaScript Interview Questions    | [JavaScript Interview Questions](#javascript-interview-questions) |
-| Networking Interview Questions    | [Networking Interview Questions](#networking-interview-questions) |
-| Operating System                  | [Operating System](#operating-system) |
-| Python                            | [Python](#python)                     |
-| React Interview Questions         | [React Interview Questions](#react-interview-questions) |
-| Software Engineering              | [Software Engineering](#software-engineering) |
-| Web Development                   | [Web Development](#web-development)   |
+| Topic                               | Link                                  |
+|-------------------------------------|---------------------------------------|
+| 1.C & C++                           | [C & C++](#1-c--c)                   |
+| 2.Coding Interview Questions        | [Coding Interview Questions](#2coding-interview-questions) |
+| 3.Common Job Interview Questions    | [Common Job Interview Questions](#3common-job-interview-questions) |
+| 4.Database Management Interview     | [Database Management Interview Questions](#4database-management-interview-questions) |
+| 5.Git & GitHub                      | [Git & GitHub](#5git--github)           |
+| 6.Java Interview Questions          | [Java Interview Questions](#6java-interview-questions) |
+| 7.JavaScript Interview Questions    | [JavaScript Interview Questions](#7javascript-interview-questions) |
+| 8.Networking Interview Questions    | [Networking Interview Questions](#8-computer-networking-interview-questions) |
+| 9.Operating System                  | [Operating System](#9-operating-system) |
+| 10.Python                           | [Python](#10python)                     |
+| 11.React Interview Questions        | [React Interview Questions](#11react-interview-questions) |
+| 12.Software Engineering             | [Software Engineering](#12-software-engineering) |
+| 13.Web Development                  | [Web Development](#13-my-skills-web-development)   |
+| 14.Machine Learning                 | [Machine Learning](#14-machine-learning-basics-questions-everyone-should-know)   |
+| 15.Project Ideas                    | [Project Ideas](#15-project-ideas)   |
+
+
 
 
 
@@ -66,325 +70,405 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 
 
-## C CPP
 
-1.[What is pragma in C](./c.md/1.md)
+## 1. C & C++:
 
-2.[Go to statement in C](./c.md/2.md)
 
-3.[What is the difference between "++i" and "i++" in C programming?](./c.md/3.md)
+1.[What is pragma in C](./C%20&%20C++/1.md)
 
-4.[What is the use of "const" keyword in C programming?](./c.md/4.md)
+2.[Go to statement in C](./C%20&%20C++/2.md)
 
-5.[What is the difference between "strcmp" and "strncmp" functions in C programming?](./c.md/5.md)
+3.[What is the difference between "++i" and "i++" in C programming?](./C%20&%20C++/3.md)
 
-6.[Explain the difference between "malloc" and "calloc" functions in C programming.](./c.md/6.md)
+4.[What is the use of "const" keyword in C programming?](./C%20&%20C++/4.md)
 
-7.[What is an STL in C++?](./c.md/7.md)
+5.[What is the difference between "strcmp" and "strncmp" functions in C programming?](./C%20&%20C++/5.md)
 
-8.[What is a virtual function in C++? Why is it important?](./c.md/8.md)
+6.[Explain the difference between "malloc" and "calloc" functions in C programming.](./C%20&%20C++/6.md)
 
-9.[what is 'this' pointer in C++?](./c.md/9.md)
+7.[What is an STL in C++?](./C%20&%20C++/7.md)
 
-10.[What are references in C++?](./c.md/10.md)
+8.[What is a virtual function in C++? Why is it important?](./C%20&%20C++/8.md)
 
-11.[How is the assignment operator ( = ) different from the equal to operator ( == )?](./c.md/11.md)
+9.[what is 'this' pointer in C++?](./C%20&%20C++/9.md)
 
-12.[Define Priority Queue](./c.md/12.md)
+10.[What are references in C++?](./C%20&%20C++/10.md)
 
-### Coding Interview Questions
+11.[How is the assignment operator ( = ) different from the equal to operator ( == )?](./C%20&%20C++/11.md)
 
-1.[What is the difference between a stack and a queue?](./coding.md/1.md#what-is-the-difference-between-a-stack-and-a-queue)
+12.[Define Priority Queue](./C%20&%20C++/12.md)
 
-2.[What is LIFO?](./coding.md/2.md)
 
-3.[What is FIFO?](./coding.md/3.md)
+## 2.Coding Interview Questions
 
-4.[What is a sparse matrix? Explain an efficient way of storing a sparse matrix in memory?](./coding.md/4.md)
+1.[What is the difference between a stack and a queue?](./Coding%20Concepts/1.md)
 
-5.[What is an integer array?](./coding.md/5.md)
+2.[What is LIFO?](./Coding%20Concepts/2.md)
 
-6.[What is a Deque?](./coding.md/6.md)
+3.[What is FIFO?](./Coding%20Concepts/3.md)
 
-7.[What is a Recursion?](./coding.md/7.md)
+4.[What is a sparse matrix? Explain an efficient way of storing a sparse matrix in memory?](./Coding%20Concepts/4.md)
 
-8.[WHat is a Graph?](./coding.md/8.md)
+5.[What is an integer array?](./Coding%20Concepts/5.md)
 
-9.[What is the difference between an interpreter and a compiler?](./coding.md/9.md)
+6.[What is a Deque?](./Coding%20Concepts/6.md)
 
-10.[What is Data abstraction?](./coding.md/10.md)
+7.[What is a Recursion?](./Coding%20Concepts/7.md)
 
-11.[Difference between Linear and Non-Linear Data Structure](./coding.md/11.md)
+8.[WHat is a Graph?](./Coding%20Concepts/8.md)
 
-12.[Why we prefer Linked List over array?](./coding.md/12.md)
+9.[What is the difference between an interpreter and a compiler?](./Coding%20Concepts/9.md)
 
-13.[How can you append texts to files in programming languages such as Java?](./coding.md/13.md)
+10.[What is Data abstraction?](./Coding%20Concepts/10.md)
 
-14.[What are the different OOPS principles?](./coding.md/14.md)
+11.[Difference between Linear and Non-Linear Data Structure](./Coding%20Concepts/11.md)
 
-### DataBase Management Interview Questions
+12.[Why we prefer Linked List over array?](./Coding%20Concepts/12.md)
 
-1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./dbms.md/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
+13.[How can you append texts to files in programming languages such as Java?](./Coding%20Concepts/13.md)
 
-2.[Mention the issues with traditional file-based systems that make DBMS a better choice?.](./dbms.md/ques2.md#Mention-the-issues-with-traditional-file-based-systems-that-make-DBMS-a-better-choice)
+14.[What are the different OOPS principles?](./Coding%20Concepts/14.md)
 
-3.[Explain different languages present in DBMS?.](./dbms.md/ques3.md#Explain-different-languages-present-in-DBMS.)
+## 3.Common Job Interview Questions
 
-4.[What is meant by ACID Properties in DBMS?](./dbms.md/ques4.md)
+1. [Tell me about yourself](./Common%20interview%20Questions/1.md)
 
-5.[Are NULL values in a database the same as that of blank space or zero?](./dbms.md/ques5.md)
+2. [What is your greatest strength?](./Common%20interview%20Questions/2.md)
 
-6.[What is Data Warehousing?](./dbms.md/ques6.md)
+3. [What is your greatest weakness?](./Common%20interview%20Questions/3.md)
 
-7.[Explain the difference between the DELETE and TRUNCATE command in a DBMS.](./dbms.md/ques7.md)
+4. [Why should we hire you?](./Common%20interview%20Questions/4.md)
 
-8.[When does checkpoint occur in DBMS?](./dbms.md/ques8.md)
+5. [Why do you want to work here?](./Common%20interview%20Questions/5.md)
 
-9.[What are the unary operations in Relational Algebra?](./dbms.md/ques9.md)
+6. [Tell me about a time you showed leadership.](./Common%20interview%20Questions/6.md)
 
-10.[What is a degree of Relation?](./dbms.md/ques10.md)
+7. [Tell me about a time you were successful on a team.](./Common%20interview%20Questions/7.md)
 
-11.[What is sharding?](./dbms.md/ques11.md)
+8. [What would your co-workers say about you?](./Common%20interview%20Questions/8.md)
 
-12.[Difference between vertical and horizontal scaling?](./dbms.md/ques12.md)
+9. [Why do you want to leave your current role?](./Common%20interview%20Questions/9.md)
 
-13.[What is indexing in dbms?](./dbms.md/ques13.md)
+10. [Describe your most challenging project.](./Common%20interview%20Questions/10.md)
 
-14.[What is normalization, and why is it important in database design?](./dbms.md/ques14.md)
+11. Tell me about something you’ve accomplished that you are proud of.
 
-## Git & GitHub
+12. Can you explain your employment gap?
 
-1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Git%20vs%20Github.md)
+13. What are your salary expectations?
 
-2.[What do you understand by the term ‘Version Control System’?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/Version%20Control%20System.md)
+14. What do you like to do outside of work?
 
-3.[What is a git repository?](./git.md/3.md)
+15. Tell me about a time you had to manage conflicting priorities.
 
-4.[What does git clone do?](./git.md/4.md)
+16. Where do you see yourself in 5 years?
 
-5.[What does git status command do?](./git.md/5.md)
+17. Describe your leadership style.
 
-6.[Define 'Git Index'?](./git.md/6.md)
+18. Tell me about a time you failed or made a mistake.
 
-7.[What is Git Bash?](./git.md/7.md)
+19. Tell me about a time you worked with a difficult person.
 
-8.[What is forking in Git?](./git.md/8.md)
+20. Tell me about a time you had to persuade someone.
 
-9.[What is origin in Git?](./git.md/9.md)
+21. Tell me about a time you disagreed with someone.
 
-10.[What is the difference between ‘git remote’ and ‘git clone’?](./git.md/10.md)
+22. Tell me about a time you created a goal and achieved it.
 
-11.[What does the command git config do?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/gitconfig.md)
+23. Tell me about a time you surpassed people’s expectations.
 
-12.[What is Git Conflict?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/git.md/gitconflict.md)
+24. Tell me about a time you had to handle pressure.
 
-### Networking Interview Questions
+25. Tell me about a time you had to learn something quickly.
 
-1.[What do you mean by Network Topology and explain types of them?](./networking.md/1.md#What-do-you-mean-by-Network-Topology-and-explain-types-of-them-?)
+26. Describe your ideal company, location and job?
 
-2.[What is the use of a router and how is it different from a gateway?](./networking.md/2.md)
+27. Do you have any questions for me?
 
-3.[Why do we require IP address when we can identify a device by its MAC address in a network?](./networking.md/3.md)
 
-11.[What is Transmission Control Protocol(TCP)?](https://github.com/khushisingh09/Interview-Skills-Development/blob/main/networking.md/11.md).
 
-### Operating system
+## 4.DataBase Management Interview Questions
 
-1.[What is the main Purpose of Operating sysetm? Discuss different types?](./operatingSystem.md/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
+1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./DBMS%20(Database%20Management%20System)/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
 
-2.[Banker's Algorithm](./operatingSystem.md/Ques2.md#Banker's-Algorithm)
+2.[Mention the issues with traditional file-based systems that make DBMS a better choice?.](./DBMS%20(Database%20Management%20System)/ques2.md#Mention-the-issues-with-traditional-file-based-systems-that-make-DBMS-a-better-choice)
 
-3.[What is a socket, kernel and Monolithic kernel?](./operatingSystem.md/Ques3.md#What-is-a-socket,-kernel-and-Monolithic-kernel-?)
+3.[Explain different languages present in DBMS?.](./DBMS%20(Database%20Management%20System)/ques3.md#Explain-different-languages-present-in-DBMS.)
 
-4.[Difference between process and program and thread? Different types of process.](./operatingSystem.md/Ques4.md)
+4.[What is meant by ACID Properties in DBMS?](./DBMS%20(Database%20Management%20System)/ques4.md)
 
-5.[Define Virtual memory, Thrashing, Threads.](./operatingSystem.md/Ques5.md)
+5.[Are NULL values in a database the same as that of blank space or zero?](./DBMS%20(Database%20Management%20System)/ques5.md)
 
-6.[what is deadlock? different conditions to achieve a deadlock.](./operatingSystem.md/Ques6.md)
+6.[What is Data Warehousing?](./DBMS%20(Database%20Management%20System)/ques6.md)
 
-7.[What is Fragmentation? Types of Fragmentation.](./operatingSystem.md/Ques7.md)
+7.[Explain the difference between the DELETE and TRUNCATE command in a DBMS.](./DBMS%20(Database%20Management%20System)/ques7.md)
 
-8.[Belady's Anomaly](./operatingSystem.md/Ques8.md)
+8.[When does checkpoint occur in DBMS?](./DBMS%20(Database%20Management%20System)/ques8.md)
 
-9.[Real Time Operating System, Types of RTOS?](./operatingSystem.md/Ques9.md)
+9.[What are the unary operations in Relational Algebra?](./DBMS%20(Database%20Management%20System)/ques9.md)
 
-10.[Dynamic Binding](./operatingSystem.md/Ques10.md)
+10.[What is a degree of Relation?](./DBMS%20(Database%20Management%20System)/ques10.md)
 
-11.[Explain the Process States and Lifecycle](./operatingSystem.md/Ques11.md)
+11.[What is sharding?](./DBMS%20(Database%20Management%20System)/ques11.md)
 
-12.[FCFS Scheduling Algorithm](./operatingSystem.md/Ques12.md)
+12.[Difference between vertical and horizontal scaling?](./DBMS%20(Database%20Management%20System)/ques12.md)
 
-13.[What is paging and why do we it?](./operatingSystem.md/Ques13.md)
+13.[What is indexing in dbms?](./DBMS%20(Database%20Management%20System)/ques13.md)
 
-14.[Difference between Primary and Secondary memory](./operatingSystem.md/Ques14.md)
+14.[What is normalization, and why is it important in database design?](./DBMS%20(Database%20Management%20System)/ques14.md)
 
-15.[What is RAID structure in OS? What are the different levels of RAID configuration?](./operatingSystem.md/Ques15.md)
+## 5.Git & GitHub
 
-16.[Write top 10 examples of OS?](./operatingSystem.md/Ques16.md)
+1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/Git%20vs%20Github.md)
 
-### Software Engineering
+2.[What do you understand by the term ‘Version Control System’?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/Version%20Control%20System.md)
 
-1.[What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
+3.[What is a git repository?](./Git%20&%20Github/3.md)
 
-2.[What are the various categories of software?](./softwareEngineering.md/ques2.md)
+4.[What does git clone do?](./Git%20&%20Github/4.md)
 
-3.[What do you mean by Alpha testing and beta testing?](./softwareEngineering.md/ques3.md)
+5.[What does git status command do?](./Git%20&%20Github/5.md)
 
-## Python
+6.[Define 'Git Index'?](./Git%20&%20Github/6.md)
 
-1.[What is a dynamically typed language?](./python.md/ques1.md)
+7.[What is Git Bash?](./Git%20&%20Github/7.md)
 
-2.[What is Walrus Operator in Python?](./python.md/ques2.md)
+8.[What is forking in Git?](./Git%20&%20Github/8.md)
 
-3.[Explain the concept of recursion?](./python.md/ques3.md)
+9.[What is origin in Git?](./Git%20&%20Github/9.md)
 
-4.[Describe the strings used in python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/python.md/strings%20in%20python.md)
+10.[What is the difference between ‘git remote’ and ‘git clone’?](./Git%20&%20Github/10.md)
 
-5.[What is Walrus Operator in Python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/python.md/walrus%20operator%20in%20python.md)
+11.[What does the command git config do?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/gitconfig.md)
 
-### Web Development
+12.[What is Git Conflict?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/gitconflict.md)
 
-1.[What is Hydration](./web.md/ques1.md)
 
-2.[State the difference between span tag and div tag in HTML5.](./web.md/ques2.md)
+## 6.Java Interview Questions
 
-3.[Describe the different kinds of HTTP requests supported by RESTful Web services](./web.md/ques3.md)
+1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Java/jagged%20array.md)
 
-4.[What is the best way to integrate different stylesheets into a website?](./web.md/ques4.md)
+2.[Define wrapper class in java with example? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Java/Wrapper%20Class.md)
 
-5.[Explain the term “Scope” in JavaScript and write its different type.](./web.md/ques5.md)
+3.[Why Java is not a purely Object-Oriented Language? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Java/Why%20Java%20is%20not%20a%20purely%20Object-Oriented%20Language.md)
 
-6.[What are pseudo-classes?](./web.md/ques6.md)
+4.[Exception Handling in Java?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Java/Exception%20Handling.md)
 
-7.[What are some of the types of CSS that are used?](./web.md/ques7.md)
+5.[Static keyword in Java](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Java/Static%20Keyword.md)
 
-8.[What are the five elements that support media content in HTML5?](./web.md/ques8.md)
+6.[What is the difference between JDK and JRE?](./Java/6.md)
 
-9.[What is the purpose of closures in JavaScript?](./web.md/ques9.md)
+7.[Why is Java a platform independent language?](./Java/7.md)
 
-10.[Why are media queries used in CSS?](./web.md/ques10.md)
+8.[What is the difference between an abstract class and an interface?](./Java/8.md)
 
-11.[What are the differences between JSON and XML?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/web.md/differences%20between%20JSON%20and%20XML%3F.md)
+9.[What is the difference between final, finally, and finalize?](./Java/9.md)
 
+10.[Why String is immutable in Java?](./Java/10.md)
 
-### JavaScript Interview Questions
+11.[What will be the initial value of an object reference which is defined as an instance variable?](./Java/11.md)
 
-1.[Explain Hoisting in javascript?](./js.md/1.md)
+12.[Does constructor return any value?](./Java/12.md)
 
-2.[What are the different data types present in javascript?](./js.md/2.md)
+13.[Is constructor inherited?](./Java/13.md)
 
-3.[What is DOM?](./js.md/3.md)
+14.[Can you make a constructor final?](./Java/14.md)
 
-4.[Difference between var and let keyword in javascript.](./js.md/4.md)
+15.[Can we overload the constructors?](./Java/15.md)
 
-5.[Difference between Event Handler and Event listener?](./js.md/5.md)
+16.[What are the various access specifiers in Java?](./Java/16.md)
 
-6.[Explain different types of Event in javaScript?](./js.md/6.md)
+17.[What are the advantages of Packages in Java?](./Java/17.md)
 
-7.[Difference between "==" and "===" in javascript.](./js.md/7.md)
+18.[What is an object?](./Java/18.md)
 
-### Java Interview Questions
+19.[What will be the initial value of an object reference which is defined as an instance variable?](./Java/19.md)
 
-1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/jagged%20array.md)
+20.[Why is the main method static?](./Java/20.md)
 
-2.[Define wrapper class in java with example? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Wrapper%20Class.md)
+21.[Advantages and disadvantages of Java Sockets?](./Java/21.md)
 
-3.[Why Java is not a purely Object-Oriented Language? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Why%20Java%20is%20not%20a%20purely%20Object-Oriented%20Language.md)
+22.[Describe synchronization with respect to multithreading?](./Java/22.md)
 
-4.[Exception Handling in Java?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Exception%20Handling.md)
+23.[What are Lambda Expressions?](./Java/23.md)
 
-5.[Static keyword in Java](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/java.md/Static%20Keyword.md)
+24.[What is the difference between ArrayList and vector? ](./Java/24.md)
 
-6.[What is the difference between JDK and JRE?](./java.md/6.md)
+25.[What is HashMap and Map?](./Java/25.md) 
 
-7.[Why is Java a platform independent language?](./java.md/7.md)
 
-8.[What is the difference between an abstract class and an interface?](./java.md/8.md)
+## 7.JavaScript Interview Questions
 
-9.[What is the difference between final, finally, and finalize?](./java.md/9.md)
+1.[Explain Hoisting in javascript?](./JavaScript/1.md)
 
-10.[Why String is immutable in Java?](./java.md/10.md)
+2.[What are the different data types present in javascript?](./JavaScript/2.md)
 
-11.[What will be the initial value of an object reference which is defined as an instance variable?](./java.md/11.md)
+3.[What is DOM?](./JavaScript/3.md)
 
-12.[Does constructor return any value?](./java.md/12.md)
+4.[Difference between var and let keyword in javascript.](./JavaScript/4.md)
 
-13.[Is constructor inherited?](./java.md/13.md)
+5.[Difference between Event Handler and Event listener?](./JavaScript/5.md)
 
-14.[Can you make a constructor final?](./java.md/14.md)
+6.[Explain different types of Event in javaScript?](./JavaScript/6.md)
 
-15.[Can we overload the constructors?](./java.md/15.md)
+7.[Difference between "==" and "===" in javascript.](./JavaScript/7.md)
 
-16.[What are the various access specifiers in Java?](./java.md/16.md)
 
-17.[What are the advantages of Packages in Java?](./java.md/17.md)
+## 8. Computer Networking Interview Questions
 
-18.[What is an object?](./java.md/18.md)
+1. [What is a computer network?](#question-1-what-is-a-computer-network)
 
-19.[What will be the initial value of an object reference which is defined as an instance variable?](./java.md/19.md)
+2. [What is the use of a router and how is it different from a gateway?](./Computer%20networking/2.md)
 
-20.[Why is the main method static?](./java.md/20.md)
+3. [Why do we require IP address when we can identify a device by its MAC address in a network?](./Computer%20networking/3.md)
 
-21.[Advantages and disadvantages of Java Sockets?](./java.md/21.md)
+4. [What do you mean by Network Topology and explain types of them?](./Computer%20networking/4.md)
 
-22.[Describe synchronization with respect to multithreading?](./java.md/22.md)
+5. [What is the purpose of the OSI model in networking?](./Computer%20networking/5.md)
 
-23.[What are Lambda Expressions?](./java.md/23.md)
+6. [What is the difference between LAN and WAN?](./Computer%20networking/6.md)
 
-24.[What is the difference between ArrayList and vector? ](./java.md/24.md)
+7. [What is a firewall in the context of network security?](./Computer%20networking/7.md)
 
-25.[What is HashMap and Map?](./java.md/25.md) 
+8. [What is the difference between TCP and UDP protocols?](./Computer%20networking/8.md)
 
-## React Interview Questions
+9. [What is DNS, and what is its role in networking?](./Computer%20networking/9.md)
 
-1.[What is React?](./react.md/1.md)
+10. [What is a MAC address, and how is it different from an IP address?](./Computer%20networking/10.md)
 
-2.[Why should I use React?](./react.md/2.md)
+11. [What is Transmission Control Protocol(TCP)?](https://github.com/khushisingh09/Interview-Skills-Development/blob/main/Computer%20networking/11.md).
 
-3.[How to get started with React](./react.md/3.md)
 
-4.[What are React components?](./react.md/4.md)
+## 9. Operating System
 
-5.[How to create a React component](./react.md/5.md)
+1.[What is the main Purpose of Operating sysetm? Discuss different types?](./Operating%20System/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
 
-6.[How to render a React component](./react.md/6.md)
+2.[Banker's Algorithm](./Operating%20System/Ques2.md#Banker's-Algorithm)
 
-7.[What is JSX?](./react.md/7.md)
+3.[What is a socket, kernel and Monolithic kernel?](./Operating%20System/Ques3.md#What-is-a-socket,-kernel-and-Monolithic-kernel-?)
 
-8.[What is State in React?](./react.md/8.md)
+4.[Difference between process and program and thread? Different types of process.](./Operating%20System/Ques4.md)
 
-9.[Class Component Vs. Functional Component](./react.md/9.md)
+5.[Define Virtual memory, Thrashing, Threads.](./Operating%20System/Ques5.md)
 
-10.[Which is faster virtual DOM or Real DOM in React JS?](./react.md/10.md)
+6.[what is deadlock? different conditions to achieve a deadlock.](./Operating%20System/Ques6.md)
 
-11.[Which consumes more memory virtual DOM or Real DOM?](./react.md/11.md)
+7.[What is Fragmentation? Types of Fragmentation.](./Operating%20System/Ques7.md)
 
-## Machine Learning Basics Questions everyone should know
-1. [What is machine learning, and how does it differ from traditional programming?](./MachineLearning.md/1.md)
+8.[Belady's Anomaly](./Operating%20System/Ques8.md)
 
-2. [What are the main categories of machine learning algorithms, and what are their key characteristics?](./MachineLearning.md/2.md)
+9.[Real Time Operating System, Types of RTOS?](./Operating%20System/Ques9.md)
 
-3. [What is supervised learning, and can you provide an example of a supervised learning problem?](./MachineLearning.md/3.md)
+10.[Dynamic Binding](./Operating%20System/Ques10.md)
 
-4. [What is unsupervised learning, and can you provide an example of an unsupervised learning problem?](./MachineLearning.md/4.md)
+11.[Explain the Process States and Lifecycle](./Operating%20System/Ques11.md)
 
-5. [What is the difference between classification and regression in machine learning?](./MachineLearning.md/5.md)
+12.[FCFS Scheduling Algorithm](./Operating%20System/Ques12.md)
 
-6. [What is overfitting in machine learning, and how can it be prevented or mitigated?](./MachineLearning.md/6.md)
+13.[What is paging and why do we it?](./Operating%20System/Ques13.md)
 
-7. [What is the role of training and testing datasets in the machine learning process?](./MachineLearning.md/7.md)
+14.[Difference between Primary and Secondary memory](./Operating%20System/Ques14.md)
 
-8. [How do you evaluate the performance of a machine learning model, and what are common evaluation metrics?](./MachineLearning.md/8.md)
+15.[What is RAID structure in OS? What are the different levels of RAID configuration?](./Operating%20System/Ques15.md)
 
-9. [What is feature engineering, and why is it important in machine learning?](./MachineLearning.md/9.md)
+16.[Write top 10 examples of OS?](./Operating%20System/Ques16.md)
 
-10. [What programming languages and libraries are commonly used for machine learning, and what are their key features?](./MachineLearning.md/10.md)
 
-# Computer Science Engineering Project Ideas
+## 10.Python
 
-Welcome to the Computer Science Engineering Project Ideas repository. This repository contains a collection of project ideas suitable for computer science engineering students. These projects are designed to help you build your skills, enhance your portfolio, and prepare for interviews.
+1.[What is a dynamically typed language?](./Python/ques1.md)
 
-## Projects
+2.[What is Walrus Operator in Python?](./Python/ques2.md)
+
+3.[Explain the concept of recursion?](./Python/ques3.md)
+
+4.[Describe the strings used in python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Python/strings%20in%20Python)
+
+5.[What is Walrus Operator in Python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Python/walrus%20operator%20in%20Python)
+
+
+## 11.React Interview Questions
+
+1.[What is React?](./React/1.md)
+
+2.[Why should I use React?](./React/2.md)
+
+3.[How to get started with React](./React/3.md)
+
+4.[What are React components?](./React/4.md)
+
+5.[How to create a React component](./React/5.md)
+
+6.[How to render a React component](./React/6.md)
+
+7.[What is JSX?](./React/7.md)
+
+8.[What is State in React?](./React/8.md)
+
+9.[Class Component Vs. Functional Component](./React/9.md)
+
+10.[Which is faster virtual DOM or Real DOM in React JS?](./React/10.md)
+
+11.[Which consumes more memory virtual DOM or Real DOM?](./React/11.md)
+
+## 12. Software Engineering
+
+1.[What are bitmap images?](./Software%20Engineering/ques1.md#What-are-bitmap-images)
+
+2.[What are the various categories of software?](./Software%20Engineering/ques2.md)
+
+3.[What do you mean by Alpha testing and beta testing?](./Software%20Engineering/ques3.md)
+
+
+## 13.Web Development
+
+1.[What is Hydration](./Web%20Dev/ques1.md)
+
+2.[State the difference between span tag and div tag in HTML5.](./Web%20Dev/ques2.md)
+
+3.[Describe the different kinds of HTTP requests supported by RESTful Web services](./Web%20Dev/ques3.md)
+
+4.[What is the best way to integrate different stylesheets into a website?](./Web%20Dev/ques4.md)
+
+5.[Explain the term “Scope” in JavaScript and write its different type.](./Web%20Dev/ques5.md)
+
+6.[What are pseudo-classes?](./Web%20Dev/ques6.md)
+
+7.[What are some of the types of CSS that are used?](./Web%20Dev/ques7.md)
+
+8.[What are the five elements that support media content in HTML5?](./Web%20Dev/ques8.md)
+
+9.[What is the purpose of closures in JavaScript?](./Web%20Dev/ques9.md)
+
+10.[Why are media queries used in CSS?](./Web%20Dev/ques10.md)
+
+11.[What are the differences between JSON and XML?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Web%20Dev/differences%20between%20JSON%20and%20XML%3F.md)
+
+
+## 14. Machine Learning Basics Questions everyone should know
+
+1. [What is machine learning, and how does it differ from traditional programming?](./Machine%20Learning/1.md)
+
+2. [What are the main categories of machine learning algorithms, and what are their key characteristics?](./Machine%20Learning/2.md)
+
+3. [What is supervised learning, and can you provide an example of a supervised learning problem?](./Machine%20Learning/3.md)
+
+4. [What is unsupervised learning, and can you provide an example of an unsupervised learning problem?](./Machine%20Learning/4.md)
+
+5. [What is the difference between classification and regression in machine learning?](./Machine%20Learning/5.md)
+
+6. [What is overfitting in machine learning, and how can it be prevented or mitigated?](./Machine%20Learning/6.md)
+
+7. [What is the role of training and testing datasets in the machine learning process?](./Machine%20Learning/7.md)
+
+8. [How do you evaluate the performance of a machine learning model, and what are common evaluation metrics?](./Machine%20Learning/8.md)
+
+9. [What is feature engineering, and why is it important in machine learning?](./Machine%20Learning/9.md)
+
+10. [What programming languages and libraries are commonly used for machine learning, and what are their key features?](./Machine%20Learning/10.md)
+
+
+## 15. Project Ideas
 
 1. [Online Portfolio Website](./Project%20ideas/1.md)
 2. [E-commerce Website](./Project%20ideas/2.md)
@@ -396,62 +480,6 @@ Welcome to the Computer Science Engineering Project Ideas repository. This repos
 8. [Expense Tracker](./Project%20ideas/8.md)
 9. [Simple Game Development](./Project%20ideas/9.md)
 10. [IoT Project](./Project%20ideas/10.md)
-
-## Common Job Interview Questions
-
-1.Tell me about yourself
-
-2.What is your greatest strength?
-
-3.What is your greatest weakness?
-
-4.Why should we hire you?
-
-5.Why do you want to work here?
-
-6.Tell me about a time you showed leadership.
-
-7.Tell me about a time you were successful on a team.
-
-8.What would your co-workers say about you?
-
-9.Why do you want to leave your current role?
-
-10.Describe your most challenging project.
-
-11.Tell me about something you’ve accomplished that you are proud of.
-
-12.Can you explain your employment gap?
-
-13.What are your salary expectations?
-
-14.What do you like to do outside of work?
-
-15.Tell me about a time you had to manage conflicting priorities.
-
-16.Where do you see yourself in 5 years?
-
-17.Describe your leadership style.
-
-18.Tell me about a time you failed or made a mistake.
-
-19.Tell me about a time you worked with a difficult person.
-
-20.Tell me about a time you had to persuade someone.
-
-21.Tell me about a time you disagreed with someone.
-
-22.Tell me about a time you created a goal and achieved it.
-
-23.Tell me about a time you surpassed people’s expectations.
-
-24.Tell me about a time you had to handle pressure.
-
-25.Tell me about a time you had to learn something quickly.
-
-26.Describe your ideal company, location and job?
-
-27.Do you have any questions for me?
 
 ## Contributing
 
