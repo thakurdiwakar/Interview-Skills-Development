@@ -192,7 +192,13 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3. [Why do we require IP address when we can identify a device by its MAC address in a network?](./Compter%20networking/3.md)
 
+<<<<<<< HEAD
 4. [What do you mean by Network Topology and explain types of them?](./Compter%20networking/4.md)
+=======
+11.[What is Transmission Control Protocol(TCP)?](https://github.com/khushisingh09/Interview-Skills-Development/blob/main/networking.md/11.md).
+
+### Operating system
+>>>>>>> e5862ac51b62b57dce44daff89f1b3ffc3a7ce72
 
 5. [What is the purpose of the OSI model in networking?](./Compter%20networking/5.md)
 
@@ -344,7 +350,21 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 20.[Why is the main method static?](./Java/20.md)
 
+<<<<<<< HEAD
 ## [![My Skills](https://skillicons.dev/icons?i=react)]()React Interview Questions
+=======
+21.[Advantages and disadvantages of Java Sockets?](./java.md/21.md)
+
+22.[Describe synchronization with respect to multithreading?](./java.md/22.md)
+
+23.[What are Lambda Expressions?](./java.md/23.md)
+
+24.[What is the difference between ArrayList and vector? ](./java.md/24.md)
+
+25.[What is HashMap and Map?](./java.md/25.md) 
+
+## React Interview Questions
+>>>>>>> e5862ac51b62b57dce44daff89f1b3ffc3a7ce72
 
 1.[What is React?](./React/1.md)
 
