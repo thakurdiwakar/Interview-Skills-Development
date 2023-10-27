@@ -43,17 +43,19 @@ Our repository covers the following topics:
 
 | Topic                               | Link                                  |
 |-------------------------------------|---------------------------------------|
-| 1.C & C++                           | [C & C++](#1-my-skills--my-skills)                   |
+| 1.C & C++                           | [C & C++](### 1. [![My Skills](https://skillicons.dev/icons?i=c)](./C%20&%20C++/) & [![My Skills](https://skillicons.dev/icons?i=cpp)](./C%20&%20C++/))                   |
 | 2.Coding Interview Questions        | [Coding Interview Questions](#2coding-interview-questions) |
 | 3.Common Job Interview Questions    | [Common Job Interview Questions](#3common-job-interview-questions) |
-| 4.Database Management Interview     | [Database Management Interview Questions](#4-my-skills-database-management-interview-questions) |
-| 5.Git & GitHub                      | [Git & GitHub](#5-my-skills-git--github)           |
-| 6.Java Interview Questions          | [Java Interview Questions](#6-my-skills-java-interview-questions) |
-| 7.JavaScript Interview Questions    | [JavaScript Interview Questions](#7-my-skills-javascript-interview-questions) |
+| 4.Database Management Interview     | [Database Management Interview Questions](# 4. [![My Skills](https://skillicons.dev/icons?i=mongo)]() DataBase Management Interview Questions) |
+| 5.Git & GitHub                      | [Git & GitHub](# 5. [![My Skills](https://skillicons.dev/icons?i=git,github)]() Git & GitHub)           |
+| 6.Java Interview Questions          | [Java Interview Questions](# 6. [![My Skills](https://skillicons.dev/icons?i=java)]() Java Interview Questions) |
+| 7.JavaScript Interview Questions    | [JavaScript Interview Questions](# 7. [![My Skills](https://skillicons.dev/icons?i=js)]() JavaScript Interview Questions
+) |
 | 8.Networking Interview Questions    | [Networking Interview Questions](#8-computer-networking-interview-questions) |
 | 9.Operating System                  | [Operating System](#9-operating-system) |
-| 10.Python                           | [Python](#10-my-skills-python)                     |
-| 11.React Interview Questions        | [React Interview Questions](#11-my-skills-react-interview-questions) |
+| 10.Python                           | [Python](# 10. [![My Skills](https://skillicons.dev/icons?i=python)]() Python
+)                     |
+| 11.React Interview Questions        | [React Interview Questions](# 11. [![My Skills](https://skillicons.dev/icons?i=react)]() React Interview Questions) |
 | 12.Software Engineering             | [Software Engineering](#12-software-engineering) |
 | 13.Web Development                  | [Web Development](#13-my-skills-web-development)   |
 | 14.Machine Learning                 | [Machine Learning](#14-machine-learning-basics-questions-everyone-should-know)   |
