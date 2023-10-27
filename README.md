@@ -71,7 +71,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 
 
-## 1. [![My Skills](https://skillicons.dev/icons?i=c)]() & [![My Skills](https://skillicons.dev/icons?i=cpp)]() 
+## 1. [![My Skills](https://skillicons.dev/icons?i=c)](./C%20&%20C++/) & [![My Skills](https://skillicons.dev/icons?i=cpp)](./C%20&%20C++/) 
 
 
 1.[What is pragma in C](./C%20&%20C++/1.md)
@@ -420,7 +420,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 3.[What do you mean by Alpha testing and beta testing?](./Software%20Engineering/ques3.md)
 
 
-## 13. [![My Skills](https://skillicons.dev/icons?i=)]() Web Development
+## 13.Web Development
 
 1.[What is Hydration](./Web%20Dev/ques1.md)
 
