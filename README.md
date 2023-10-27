@@ -419,6 +419,15 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[What do you mean by Alpha testing and beta testing?](./Software%20Engineering/ques3.md)
 
+4.[What is a framework?](./Software%20Engineering/ques4.md)
+
+5.[What is the main difference between a computer program and computer software?](./Software%20Engineering/ques5.md)
+
+6.[Describe the Software Development Process in Brief.](./Software%20Engineering/ques6.md)
+
+7.[ What are different SDLC models available?](./Software%20Engineering/ques7.md)
+
+8.[Which SDLC model is the best?](./Software%20Engineering/ques8.md)
 
 ## 13.Web Development
 

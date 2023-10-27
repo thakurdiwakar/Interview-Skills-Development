@@ -1,0 +1,2 @@
+# What is the main difference between a computer program and computer software?
+The key difference between software is a collection of several programs used to complete tasks, whereas a program is a set of instructions expressed in a programming language. A program can be software, but software the vice versa is not true
