@@ -222,6 +222,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 17.[What is spooling?](./operatingSystem.md/Ques17.md)
 
+18.[What do you mean by RTOS?](./operatingSystem.md/Ques18.md)
+
 ### Software Engineering
 
 1.[What are bitmap images?](./softwareEngineering.md/ques1.md#What-are-bitmap-images)
