@@ -43,19 +43,17 @@ Our repository covers the following topics:
 
 | Topic                               | Link                                  |
 |-------------------------------------|---------------------------------------|
-| 1.C & C++                           | [C & C++](### 1. [![My Skills](https://skillicons.dev/icons?i=c)](./C%20&%20C++/) & [![My Skills](https://skillicons.dev/icons?i=cpp)](./C%20&%20C++/))                   |
+| 1.C & C++                           | [C & C++](#1-c--c)                   |
 | 2.Coding Interview Questions        | [Coding Interview Questions](#2coding-interview-questions) |
 | 3.Common Job Interview Questions    | [Common Job Interview Questions](#3common-job-interview-questions) |
-| 4.Database Management Interview     | [Database Management Interview Questions](# 4. [![My Skills](https://skillicons.dev/icons?i=mongo)]() DataBase Management Interview Questions) |
-| 5.Git & GitHub                      | [Git & GitHub](# 5. [![My Skills](https://skillicons.dev/icons?i=git,github)]() Git & GitHub)           |
-| 6.Java Interview Questions          | [Java Interview Questions](# 6. [![My Skills](https://skillicons.dev/icons?i=java)]() Java Interview Questions) |
-| 7.JavaScript Interview Questions    | [JavaScript Interview Questions](# 7. [![My Skills](https://skillicons.dev/icons?i=js)]() JavaScript Interview Questions
-) |
+| 4.Database Management Interview     | [Database Management Interview Questions](#4database-management-interview-questions) |
+| 5.Git & GitHub                      | [Git & GitHub](#5git--github)           |
+| 6.Java Interview Questions          | [Java Interview Questions](#6java-interview-questions) |
+| 7.JavaScript Interview Questions    | [JavaScript Interview Questions](#7javascript-interview-questions) |
 | 8.Networking Interview Questions    | [Networking Interview Questions](#8-computer-networking-interview-questions) |
 | 9.Operating System                  | [Operating System](#9-operating-system) |
-| 10.Python                           | [Python](# 10. [![My Skills](https://skillicons.dev/icons?i=python)]() Python
-)                     |
-| 11.React Interview Questions        | [React Interview Questions](# 11. [![My Skills](https://skillicons.dev/icons?i=react)]() React Interview Questions) |
+| 10.Python                           | [Python](#10python)                     |
+| 11.React Interview Questions        | [React Interview Questions](#11react-interview-questions) |
 | 12.Software Engineering             | [Software Engineering](#12-software-engineering) |
 | 13.Web Development                  | [Web Development](#13-my-skills-web-development)   |
 | 14.Machine Learning                 | [Machine Learning](#14-machine-learning-basics-questions-everyone-should-know)   |
@@ -73,7 +71,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 
 
-## 1. [![My Skills](https://skillicons.dev/icons?i=c)](./C%20&%20C++/) & [![My Skills](https://skillicons.dev/icons?i=cpp)](./C%20&%20C++/) 
+## 1. C & C++:
 
 
 1.[What is pragma in C](./C%20&%20C++/1.md)
@@ -189,7 +187,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 
 
-## 4. [![My Skills](https://skillicons.dev/icons?i=mongo)]() DataBase Management Interview Questions
+## 4.DataBase Management Interview Questions
 
 1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./DBMS%20(Database%20Management%20System)/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
 
@@ -219,7 +217,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 14.[What is normalization, and why is it important in database design?](./DBMS%20(Database%20Management%20System)/ques14.md)
 
-## 5. [![My Skills](https://skillicons.dev/icons?i=git,github)]() Git & GitHub
+## 5.Git & GitHub
 
 1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/Git%20vs%20Github.md)
 
@@ -246,7 +244,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 12.[What is Git Conflict?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/gitconflict.md)
 
 
-## 6. [![My Skills](https://skillicons.dev/icons?i=java)]() Java Interview Questions
+## 6.Java Interview Questions
 
 1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Java/jagged%20array.md)
 
@@ -299,7 +297,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 25.[What is HashMap and Map?](./Java/25.md) 
 
 
-## 7. [![My Skills](https://skillicons.dev/icons?i=js)]() JavaScript Interview Questions
+## 7.JavaScript Interview Questions
 
 1.[Explain Hoisting in javascript?](./JavaScript/1.md)
 
@@ -376,7 +374,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 16.[Write top 10 examples of OS?](./Operating%20System/Ques16.md)
 
 
-## 10. [![My Skills](https://skillicons.dev/icons?i=python)]() Python
+## 10.Python
 
 1.[What is a dynamically typed language?](./Python/ques1.md)
 
@@ -389,7 +387,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 5.[What is Walrus Operator in Python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Python/walrus%20operator%20in%20Python)
 
 
-## 11. [![My Skills](https://skillicons.dev/icons?i=react)]() React Interview Questions
+## 11.React Interview Questions
 
 1.[What is React?](./React/1.md)
 
