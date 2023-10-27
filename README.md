@@ -43,7 +43,7 @@ Our repository covers the following topics:
 
 | Topic                             | Link                                  |
 |-----------------------------------|---------------------------------------|
-| C & C++                           | [C & C++](#C-&-C++)                   |
+| C & C++                           | [C & C++](##)                   |
 | Coding Interview Questions        | [Coding Interview Questions](#coding-interview-questions) |
 | Common Job Interview Questions    | [Common Job Interview Questions](#common-job-interview-questions) |
 | Database Management Interview     | [Database Management Interview Questions](#database-management-interview-questions) |
@@ -71,7 +71,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 
 
-### [![My Skills](https://skillicons.dev/icons?i=c)]() & [![My Skills](https://skillicons.dev/icons?i=cpp)]() C & C++
+## [![My Skills](https://skillicons.dev/icons?i=c)]() & [![My Skills](https://skillicons.dev/icons?i=cpp)]() 
 
 
 1.[What is pragma in C](./C%20&%20C++/1.md)
