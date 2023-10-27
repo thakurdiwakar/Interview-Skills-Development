@@ -262,18 +262,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 8.[What is the difference between an abstract class and an interface?](./Java/8.md)
 
-<<<<<<< HEAD
 9.[What is the difference between final, finally, and finalize?](./Java/9.md)
-=======
-12.[What do you understand by the universal sector?](./web.md/ques12)
-
-13.[What are the elements of the CSS Box Model?](./web.md/ques13.md)
-
-14.[Differentiate between CSS3 and CSS2?](./web.md/ques14.md)
-
-15.[How can CSS be integrated into an HTML page?](./web.md/ques15.md)
-
->>>>>>> CSS/Ques
 
 10.[Why String is immutable in Java?](./Java/10.md)
 
