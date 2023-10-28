@@ -55,7 +55,7 @@ Our repository covers the following topics:
 | 10.Python                           | [Python](#10python)                     |
 | 11.React Interview Questions        | [React Interview Questions](#11react-interview-questions) |
 | 12.Software Engineering             | [Software Engineering](#12-software-engineering) |
-| 13.Web Development                  | [Web Development](#13-my-skills-web-development)   |
+| 13.Web Development                  | [Web Development](#13-web-development) |
 | 14.Machine Learning                 | [Machine Learning](#14-machine-learning-basics-questions-everyone-should-know)   |
 | 15.Project Ideas                    | [Project Ideas](#15-project-ideas)   |
 
@@ -420,7 +420,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 3.[What do you mean by Alpha testing and beta testing?](./Software%20Engineering/ques3.md)
 
 
-## 13.Web Development
+## 13. Web Development
 
 1.[What is Hydration](./Web%20Dev/ques1.md)
 
