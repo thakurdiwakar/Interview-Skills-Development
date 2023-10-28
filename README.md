@@ -442,7 +442,11 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 10.[Why are media queries used in CSS?](./Web%20Dev/ques10.md)
 
-11.[What are the differences between JSON and XML?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Web%20Dev/differences%20between%20JSON%20and%20XML%3F.md)
+11.[What are the advantages of using CSS?](./Web%20Dev/ques11.md)
+
+12.[What are the limitations of CSS?](./Web%20Dev/ques12.md)
+
+13.[Why do we use CSS??](./Web%20Dev/ques13.md)
 
 
 ## 14. Machine Learning Basics Questions everyone should know
