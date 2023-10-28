@@ -19,15 +19,22 @@ Thank you for your interest in contributing to this project! We welcome contribu
 
 4. **Create a new branch**: Make your changes in a new branch you create from your fork. This helps keep your changes isolated and makes it easier to merge them later.
 
-5. **Make your changes**: Implement your improvements or bug fixes. Be sure to follow the coding style and conventions used in the project.
+5. **Create an Issue**: Before making any changes or improvements, it's a good practice to create an issue to discuss and describe the problem you intend to solve or the feature you want to add. To create an issue, follow these steps:
 
-6. **Test your changes**: Ensure that your changes don't introduce new issues. Test thoroughly to validate your work.
+    Go to the project's GitHub repository.
+    Click on the "Issues" tab, usually located near the top of the repository page.
+    Click the "New issue" button.
+    In the issue, provide a clear and detailed description of the problem or feature request. This will help project maintainers understand what you're working on.
 
-7. **Commit your changes**: Commit your changes with a clear and concise commit message.
+6. **Make your changes**: Implement your improvements or bug fixes. Be sure to follow the coding style and conventions used in the project.
 
-8. **Push your changes**: Push your changes to your fork on GitHub.
+7. **Test your changes**: Ensure that your changes don't introduce new issues. Test thoroughly to validate your work.
 
-9. **Create a pull request**: Open a pull request (PR) from your fork to the main repository. Provide a clear and descriptive title and explain the changes you've made.
+8. **Commit your changes**: Commit your changes with a clear and concise commit message.
+
+9. **Push your changes**: Push your changes to your fork on GitHub.
+
+10. **Create a pull request**: Open a pull request (PR) from your fork to the main repository. Provide a clear and descriptive title and explain the changes you've made.
 
 ## Code of Conduct
 
