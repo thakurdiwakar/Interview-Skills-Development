@@ -17,7 +17,7 @@
 
 
 
-# Interview Prep
+# Interview Skills Development
 
 Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a comprehensive set of questions to help you succeed.
 
