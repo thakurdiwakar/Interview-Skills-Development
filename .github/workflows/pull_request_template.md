@@ -1,6 +1,6 @@
 ## Describe your changes
 
-Close #<issue_no>
+## Close #<issue_no>
 <!-- Example: Close #244 -->
 <!-- Replace `issue_no` with the issue number which is fixed in this PR -->
 
