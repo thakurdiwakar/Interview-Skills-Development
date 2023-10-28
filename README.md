@@ -419,6 +419,11 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 3.[What do you mean by Alpha testing and beta testing?](./Software%20Engineering/ques3.md)
 
+4.[What are different SDLC models available?](./Software%20Engineering/ques4.md)
+
+5.[Which SDLC model is the best?](./Software%20Engineering/ques5.md)
+
+6.[What is Debugging?](./Software%20Engineering/ques6.md)
 
 ## 13. Web Development
 
