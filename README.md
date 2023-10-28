@@ -21,14 +21,14 @@
 
 Welcome to Interview Questions, a repository of commonly asked interview questions for various industries and job functions. Whether you're preparing for a job interview or looking to improve your skills, our repository provides a comprehensive set of questions to help you succeed.
 
-## Table of Contents
+# Table of Contents
 
 - [How to Contribute](#how-to-contribute)
 - [Topics](#topics)
 - [Contributors](#contributors)
 - [Owners of this Repository](#owners-of-this-repository)
 
-## How to Contribute
+# How to Contribute
 
 1. First of all, star ⭐ the Repo and follow my GitHub, [Diwakar Singh](https://github.com/thakurdiwakar).
 2. Fork the repository.
@@ -37,7 +37,7 @@ Welcome to Interview Questions, a repository of commonly asked interview questio
 5. Push your changes to your fork.
 6. Open a pull request (PR) with a clear description of your changes and their purpose.
 
-## Topics
+# Topics
 
 Our repository covers the following topics:
 
@@ -71,7 +71,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 
 
-## 1. C & C++:
+# 1.C & C++:
 
 
 1.[What is pragma in C](./C%20&%20C++/1.md)
@@ -99,7 +99,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 12.[Define Priority Queue](./C%20&%20C++/12.md)
 
 
-## 2.Coding Interview Questions
+# 2.Coding Interview Questions
 
 1.[What is the difference between a stack and a queue?](./Coding%20Concepts/1.md)
 
@@ -129,7 +129,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 14.[What are the different OOPS principles?](./Coding%20Concepts/14.md)
 
-## 3.Common Job Interview Questions
+# 3.Common Job Interview Questions
 
 1. [Tell me about yourself](./Common%20interview%20Questions/1.md)
 
@@ -151,43 +151,43 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 10. [Describe your most challenging project.](./Common%20interview%20Questions/10.md)
 
-11. Tell me about something you’ve accomplished that you are proud of.
+11. [Tell me about something you’ve accomplished that you are proud of.](./Common%20interview%20Questions/11.md)
 
-12. Can you explain your employment gap?
+12. [Can you explain your employment gap?](./Common%20interview%20Questions/12.md)
 
-13. What are your salary expectations?
+13. [What are your salary expectations?](./Common%20interview%20Questions/13.md)
 
-14. What do you like to do outside of work?
+14. [What do you like to do outside of work?](./Common%20interview%20Questions/14.md)
 
-15. Tell me about a time you had to manage conflicting priorities.
+15. [Tell me about a time you had to manage conflicting priorities.](./Common%20interview%20Questions/15.md)
 
-16. Where do you see yourself in 5 years?
+16. [Where do you see yourself in 5 years?](./Common%20interview%20Questions/16.md)
 
-17. Describe your leadership style.
+17. [Describe your leadership style.](./Common%20interview%20Questions/17.md)
 
-18. Tell me about a time you failed or made a mistake.
+18. [Tell me about a time you failed or made a mistake.](./Common%20interview%20Questions/18.md)
 
-19. Tell me about a time you worked with a difficult person.
+19. [Tell me about a time you worked with a difficult person.](./Common%20interview%20Questions/19.md)
 
-20. Tell me about a time you had to persuade someone.
+20. [Tell me about a time you had to persuade someone.](./Common%20interview%20Questions/20.md)
 
-21. Tell me about a time you disagreed with someone.
+21. [Tell me about a time you disagreed with someone.](./Common%20interview%20Questions/21.md)
 
-22. Tell me about a time you created a goal and achieved it.
+22. [Tell me about a time you created a goal and achieved it.](./Common%20interview%20Questions/22.md)
 
-23. Tell me about a time you surpassed people’s expectations.
+23. [Tell me about a time you surpassed people’s expectations.](./Common%20interview%20Questions/23.md)
 
-24. Tell me about a time you had to handle pressure.
+24. [Tell me about a time you had to handle pressure.](./Common%20interview%20Questions/24.md)
 
-25. Tell me about a time you had to learn something quickly.
+25. [Tell me about a time you had to learn something quickly.](./Common%20interview%20Questions/25.md)
 
-26. Describe your ideal company, location and job?
+26. [Describe your ideal company, location and job?](./Common%20interview%20Questions/26.md)
 
-27. Do you have any questions for me?
+27. [Do you have any questions for me?](./Common%20interview%20Questions/27.md)
 
 
 
-## 4.DataBase Management Interview Questions
+# 4.DataBase Management Interview Questions
 
 1.[What is DBMS and what is its utility?Explain RDBMS with examples.](./DBMS%20(Database%20Management%20System)/ques1.md#What-is-DBMS-and-what-is-its-utility-Explain-RDBMS-with-examples)
 
@@ -217,7 +217,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 14.[What is normalization, and why is it important in database design?](./DBMS%20(Database%20Management%20System)/ques14.md)
 
-## 5.Git & GitHub
+# 5.Git & GitHub
 
 1.[What’s the difference between Git and GitHub?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/Git%20vs%20Github.md)
 
@@ -244,7 +244,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 12.[What is Git Conflict?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/gitconflict.md)
 
 
-## 6.Java Interview Questions
+# 6.Java Interview Questions
 
 1.[what is jagged Array in java ? ](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Java/jagged%20array.md)
 
@@ -297,7 +297,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 25.[What is HashMap and Map?](./Java/25.md) 
 
 
-## 7.JavaScript Interview Questions
+# 7.JavaScript Interview Questions
 
 1.[Explain Hoisting in javascript?](./JavaScript/1.md)
 
@@ -314,7 +314,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 7.[Difference between "==" and "===" in javascript.](./JavaScript/7.md)
 
 
-## 8. Computer Networking Interview Questions
+# 8. Computer Networking Interview Questions
 
 1. [What is a computer network?](#question-1-what-is-a-computer-network)
 
@@ -339,7 +339,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 11. [What is Transmission Control Protocol(TCP)?](https://github.com/khushisingh09/Interview-Skills-Development/blob/main/Computer%20networking/11.md).
 
 
-## 9. Operating System
+# 9. Operating System
 
 1.[What is the main Purpose of Operating sysetm? Discuss different types?](./Operating%20System/Ques1.md#What-is-the-main-Purpose-of-operating-system-?-Discuss-different-types-?)
 
@@ -374,7 +374,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 16.[Write top 10 examples of OS?](./Operating%20System/Ques16.md)
 
 
-## 10.Python
+# 10.Python
 
 1.[What is a dynamically typed language?](./Python/ques1.md)
 
@@ -387,7 +387,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 5.[What is Walrus Operator in Python](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Python/walrus%20operator%20in%20Python)
 
 
-## 11.React Interview Questions
+# 11.React Interview Questions
 
 1.[What is React?](./React/1.md)
 
@@ -411,7 +411,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 11.[Which consumes more memory virtual DOM or Real DOM?](./React/11.md)
 
-## 12. Software Engineering
+# 12. Software Engineering
 
 1.[What are bitmap images?](./Software%20Engineering/ques1.md#What-are-bitmap-images)
 
@@ -425,7 +425,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
 6.[What is Debugging?](./Software%20Engineering/ques6.md)
 
-## 13. Web Development
+# 13. Web Development
 
 1.[What is Hydration](./Web%20Dev/ques1.md)
 
@@ -454,7 +454,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 13.[Why do we use CSS??](./Web%20Dev/ques13.md)
 
 
-## 14. Machine Learning Basics Questions everyone should know
+# 14. Machine Learning Basics Questions everyone should know
 
 1. [What is machine learning, and how does it differ from traditional programming?](./Machine%20Learning/1.md)
 
@@ -477,7 +477,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 10. [What programming languages and libraries are commonly used for machine learning, and what are their key features?](./Machine%20Learning/10.md)
 
 
-## 15. Project Ideas
+# 15. Project Ideas
 
 1. [Online Portfolio Website](./Project%20ideas/1.md)
 2. [E-commerce Website](./Project%20ideas/2.md)
@@ -490,13 +490,13 @@ Each topic includes a set of questions to help you prepare for your interview. W
 9. [Simple Game Development](./Project%20ideas/9.md)
 10. [IoT Project](./Project%20ideas/10.md)
 
-## Contributing
+# Contributing
 
 We believe that the best resources are the ones that are created collaboratively. That's why we invite you to contribute
 your own interview questions and insights to our repository. To do so, simply fork this repository, add your questions,
 and submit a pull request. We'll review your contribution and merge it if it meets our standards.
 
-## Feedback
+# Feedback
 
 We are always looking for ways to improve our repository and make it more useful for job seekers around the world. If
 you have any feedback or suggestions, please don't hesitate to open an issue or reach out to us directly.
@@ -504,7 +504,7 @@ you have any feedback or suggestions, please don't hesitate to open an issue or 
 We hope that this repository helps you feel more confident and prepared as you navigate the job search process. Good
 luck with your interviews!
 
-## Contributors⭐
+# Contributors⭐
 
 <table>
 	<tr>
