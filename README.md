@@ -175,7 +175,7 @@ Each topic includes a set of questions to help you prepare for your interview. W
 
  22. [Tell me about a time you created a goal and achieved it.](./Common%20interview%20Questions/22.md)
 
- 23. [Tell me about a time you surpassed people’s expectations.](./Common%20interview%20Questions/23.md)
+ 23. [Tell me  about a time you surpassed people’s expectations.](./Common%20interview%20Questions/23.md)
 
  24. [Tell me about a time you had to handle pressure.](./Common%20interview%20Questions/24.md)
 
