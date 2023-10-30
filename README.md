@@ -58,7 +58,7 @@ Our repository covers the following topics:
 | 13.Web Development                  | [Web Development](#13-web-development) |
 | 14.Machine Learning                 | [Machine Learning](#14-machine-learning-basics-questions-everyone-should-know)   |
 | 15.Project Ideas                    | [Project Ideas](#15-project-ideas)   |
-
+| 16.Programs                         | [Programs](#16-programs)               |
 
 
 
@@ -489,6 +489,13 @@ Each topic includes a set of questions to help you prepare for your interview. W
  8. [Expense Tracker](./Project%20ideas/8.md)
  9. [Simple Game Development](./Project%20ideas/9.md)
  10. [IoT Project](./Project%20ideas/10.md)
+
+# 16. Programs
+
+ 1. [C++ Programs](./Programs/C++/cpp_programs.md)
+ 2. [Java Programs](./Programs/Java/java-programs.md)
+ 3. [Python programs](./Programs/Python/python_programs.md)
+ 
 
 # Contributing
 
