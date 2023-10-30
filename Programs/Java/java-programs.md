@@ -6,8 +6,6 @@
 
 3.[Number of digits.](./Number%20of%20Digits.java)
 
-4.[Palindrome Number](./Palindrome%20number.java)
+4.[Reverse digits](./Reverse%20digits.java)
 
-5.[Reverse digits](./Reverse%20digits.java)
 
-6.[To check for Leap Year](./To%20Check%20for%20Leap%20Year.java)
