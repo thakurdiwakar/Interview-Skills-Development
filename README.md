@@ -128,6 +128,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
  13. [How can you append texts to files in programming languages such as Java?](./Coding%20Concepts/13.md)
 
  14. [What are the different OOPS principles?](./Coding%20Concepts/14.md)
+ 
+ 15.[Give real life Implementation of stack and Queue](./Coding%20Concepts/15.md) 
 
 # 3.Common Job Interview Questions
 
@@ -242,6 +244,8 @@ Each topic includes a set of questions to help you prepare for your interview. W
  11. [What does the command git config do?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/gitconfig.md)
 
  12. [What is Git Conflict?](https://github.com/thakurdiwakar/Interview-Skills-Development/blob/main/Git%20&%20Github/gitconflict.md)
+ 
+ 13.[How to host a website on Github for free?](./Coding%20Concepts/11.md) 
 
 
 # 6.Java Interview Questions
